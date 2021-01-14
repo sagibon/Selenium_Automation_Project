@@ -39,3 +39,1473 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1610634454993	geckodriver	INFO	Listening on 127.0.0.1:54734
+1610634458052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilevqYntl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610634460701	Marionette	INFO	Listening on port 54752
+1610634460736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610634466199	Marionette	INFO	Stopped listening on port 54752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610634604859	geckodriver	INFO	Listening on 127.0.0.1:54999
+1610634607907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileVWp4Rm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610634610510	Marionette	INFO	Listening on port 55013
+1610634610580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610634615283	Marionette	INFO	Stopped listening on port 55013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610634762794	geckodriver	INFO	Listening on 127.0.0.1:55263
+1610634765864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileeJrYVb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610634768726	Marionette	INFO	Listening on port 55271
+1610634769066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610634778395	Marionette	INFO	Stopped listening on port 55271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610634972552	geckodriver	INFO	Listening on 127.0.0.1:55392
+1610634975594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofiletIWgc8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610634978200	Marionette	INFO	Listening on port 55402
+1610634978264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610634989575	Marionette	INFO	Stopped listening on port 55402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610635041861	geckodriver	INFO	Listening on 127.0.0.1:55536
+1610635044915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilemGE2Kd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635047465	Marionette	INFO	Listening on port 55545
+1610635047598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635059159	Marionette	INFO	Stopped listening on port 55545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610635123164	geckodriver	INFO	Listening on 127.0.0.1:55719
+1610635126254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileZUvt2w"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635128846	Marionette	INFO	Listening on port 55733
+1610635128926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635137802	Marionette	INFO	Stopped listening on port 55733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610635205287	geckodriver	INFO	Listening on 127.0.0.1:56035
+1610635208330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileDZBmB0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635211389	Marionette	INFO	Listening on port 56057
+1610635211492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635224112	Marionette	INFO	Stopped listening on port 56057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638008097	geckodriver	INFO	Listening on 127.0.0.1:58902
+1610638011132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileP1fFc5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638013713	Marionette	INFO	Listening on port 58910
+1610638013811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638023536	Marionette	INFO	Stopped listening on port 58910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilecdlXfF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638019639	Marionette	INFO	Listening on port 58961
+1610638019852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638023029	Marionette	INFO	Stopped listening on port 58961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638091893	geckodriver	INFO	Listening on 127.0.0.1:59031
+1610638094943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilevqh5sP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638097261	Marionette	INFO	Listening on port 59040
+1610638097627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638109234	Marionette	INFO	Stopped listening on port 59040
+0638102773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileaox6ej"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638105185	Marionette	INFO	Listening on port 59101
+1610638105469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638108398	Marionette	INFO	Stopped listening on port 59101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638131589	geckodriver	INFO	Listening on 127.0.0.1:59152
+1610638134654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilefyRXP2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638136963	Marionette	INFO	Listening on port 59160
+1610638137345	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13688, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638143525	Marionette	INFO	Stopped listening on port 59160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638160926	geckodriver	INFO	Listening on 127.0.0.1:59222
+1610638163977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileMtBFGW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638166305	Marionette	INFO	Listening on port 59234
+1610638166699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638176702	Marionette	INFO	Stopped listening on port 59234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638490526	geckodriver	INFO	Listening on 127.0.0.1:59399
+1610638493607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilePD9kLD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638495953	Marionette	INFO	Listening on port 59407
+1610638496258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638507293	Marionette	INFO	Stopped listening on port 59407
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638551922	geckodriver	INFO	Listening on 127.0.0.1:59478
+1610638554974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilePSyDxD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638557256	Marionette	INFO	Listening on port 59486
+1610638557666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638574576	Marionette	INFO	Stopped listening on port 59486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileZxbFfc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638565103	Marionette	INFO	Listening on port 59541
+1610638565454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638571484	Marionette	INFO	Stopped listening on port 59541
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638679214	geckodriver	INFO	Listening on 127.0.0.1:59627
+1610638682264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileAPuwZx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638684575	Marionette	INFO	Listening on port 59635
+1610638684943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638698923	Marionette	INFO	Stopped listening on port 59635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile2JBSD4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638692598	Marionette	INFO	Listening on port 59697
+1610638692819	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+1610638698132	Marionette	INFO	Stopped listening on port 59697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610638969847	geckodriver	INFO	Listening on 127.0.0.1:59834
+1610638972912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileWBil9C"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610638975298	Marionette	INFO	Listening on port 59842
+1610638975593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610638986732	Marionette	INFO	Stopped listening on port 59842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639021844	geckodriver	INFO	Listening on 127.0.0.1:59912
+1610639024901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileIYtnUs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639027183	Marionette	INFO	Listening on port 59920
+1610639027574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639037118	Marionette	INFO	Stopped listening on port 59920
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639114177	geckodriver	INFO	Listening on 127.0.0.1:60002
+1610639117246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile9xDidf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639119516	Marionette	INFO	Listening on port 60011
+1610639119924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639124966	Marionette	INFO	Stopped listening on port 60011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639144182	geckodriver	INFO	Listening on 127.0.0.1:60073
+1610639147259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilemLSaZg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639149561	Marionette	INFO	Listening on port 60081
+1610639149932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639165300	Marionette	INFO	Stopped listening on port 60081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileeGscqf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639157506	Marionette	INFO	Listening on port 60138
+1610639157787	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639164418	Marionette	INFO	Stopped listening on port 60138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639239290	geckodriver	INFO	Listening on 127.0.0.1:60217
+1610639242339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileB7NK9e"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639244729	Marionette	INFO	Listening on port 60226
+1610639245062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639250875	Marionette	INFO	Stopped listening on port 60226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639410884	geckodriver	INFO	Listening on 127.0.0.1:60323
+1610639413964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileyjhXBy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639416382	Marionette	INFO	Listening on port 60334
+1610639416667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639419909	Marionette	INFO	Stopped listening on port 60334
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639441877	geckodriver	INFO	Listening on 127.0.0.1:60393
+1610639444934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileDBauys"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639447227	Marionette	INFO	Listening on port 60401
+1610639447604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639453006	Marionette	INFO	Stopped listening on port 60401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639515002	geckodriver	INFO	Listening on 127.0.0.1:60475
+1610639518074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileyOV0Dp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639520377	Marionette	INFO	Listening on port 60485
+1610639520806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639524398	Marionette	INFO	Stopped listening on port 60485
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639691648	geckodriver	INFO	Listening on 127.0.0.1:60592
+1610639694684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilekXjH2F"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639697037	Marionette	INFO	Listening on port 60603
+1610639697332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639715822	Marionette	INFO	Stopped listening on port 60603
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilediGtR7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639711084	Marionette	INFO	Listening on port 60664
+1610639711320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639714960	Marionette	INFO	Stopped listening on port 60664
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639837212	geckodriver	INFO	Listening on 127.0.0.1:60755
+1610639840263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileVoqmfg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639842589	Marionette	INFO	Listening on port 60764
+1610639842971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639858348	Marionette	INFO	Stopped listening on port 60764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilexJon7j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639856571	Marionette	INFO	Listening on port 60829
+1610639856883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639857363	Marionette	INFO	Stopped listening on port 60829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610639909829	geckodriver	INFO	Listening on 127.0.0.1:60874
+1610639912895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileht6eC3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639915183	Marionette	INFO	Listening on port 60883
+1610639915587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639939112	Marionette	INFO	Stopped listening on port 60883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilebMoJAX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610639929324	Marionette	INFO	Listening on port 60940
+1610639929626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610639937616	Marionette	INFO	Stopped listening on port 60940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610642533246	geckodriver	INFO	Listening on 127.0.0.1:62122
+1610642536176	geckodriver	INFO	Listening on 127.0.0.1:62129
+1610642538406	geckodriver	INFO	Listening on 127.0.0.1:62135
+1610642541461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileIqfueJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610642544272	Marionette	INFO	Listening on port 62144
+1610642544649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610642554118	Marionette	INFO	Stopped listening on port 62144
+0642547748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilelhWvOl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610642550419	Marionette	INFO	Listening on port 62199
+1610642550929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610642553259	Marionette	INFO	Stopped listening on port 62199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610642572104	geckodriver	INFO	Listening on 127.0.0.1:62248
+1610642575133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile55rwlq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1610642576581	geckodriver	INFO	Listening on 127.0.0.1:62261
+1610642579618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileDnIZAJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610642582292	Marionette	INFO	Listening on port 62269
+1610642582782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610642591768	Marionette	INFO	Stopped listening on port 62269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileEErLOv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610642588722	Marionette	INFO	Listening on port 62322
+1610642589056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610642590078	Marionette	INFO	Stopped listening on port 62322
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610643990943	geckodriver	INFO	Listening on 127.0.0.1:53829
+1610643994001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileFinyiv"
+1610643994821	geckodriver	INFO	Listening on 127.0.0.1:53845
+1610643998328	geckodriver	INFO	Listening on 127.0.0.1:53853
+1610644001379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilenYBA3O"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610644004137	Marionette	INFO	Listening on port 53861
+1610644004554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610644005845	Marionette	INFO	Stopped listening on port 53861
+JavaScript error: https://www.advantageonlineshopping.com/vendor/requirejs/require.js, line 165: Error: Script error for "main.min"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610644072027	geckodriver	INFO	Listening on 127.0.0.1:53929
+1610644075078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilejC9WPw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1610644076565	geckodriver	INFO	Listening on 127.0.0.1:53945
+1610644079005	geckodriver	INFO	Listening on 127.0.0.1:53950
+1610644082051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilentlU5L"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610644084982	Marionette	INFO	Listening on port 53959
+1610644085221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610644086985	Marionette	INFO	Stopped listening on port 53959
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dolev\AppData\Local\Temp\rust_mozprofilentlU5L\protections.sqlite
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610644103414	geckodriver	INFO	Listening on 127.0.0.1:54016
+1610644106458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileo6Dtkg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610644109074	Marionette	INFO	Listening on port 54025
+1610644109164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610644111102	Marionette	INFO	Stopped listening on port 54025
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dolev\AppData\Local\Temp\rust_mozprofileo6Dtkg\protections.sqlite
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610644134129	geckodriver	INFO	Listening on 127.0.0.1:54080
+1610644137209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilejYX1tt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610644139840	Marionette	INFO	Listening on port 54088
+1610644139894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610644146487	Marionette	INFO	Stopped listening on port 54088
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610645759615	geckodriver	INFO	Listening on 127.0.0.1:54842
+1610645762654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile2AQlKR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610645765390	Marionette	INFO	Listening on port 54850
+1610645765845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610645768216	Marionette	INFO	Stopped listening on port 54850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610645961668	geckodriver	INFO	Listening on 127.0.0.1:54967
+1610645964701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilem9E3nM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610645967234	Marionette	INFO	Listening on port 54976
+1610645967382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610645979905	Marionette	INFO	Stopped listening on port 54976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610646062333	geckodriver	INFO	Listening on 127.0.0.1:55056
+1610646065418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile32Pknn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610646068081	Marionette	INFO	Listening on port 55067
+1610646068121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610646070018	Marionette	INFO	Stopped listening on port 55067
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dolev\AppData\Local\Temp\rust_mozprofile32Pknn\protections.sqlite
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610646148600	geckodriver	INFO	Listening on 127.0.0.1:55148
+1610646151647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile5Tp6jT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610646154252	Marionette	INFO	Listening on port 55158
+1610646154325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610646156073	Marionette	INFO	Stopped listening on port 55158
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dolev\AppData\Local\Temp\rust_mozprofile5Tp6jT\protections.sqlite
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610646279082	geckodriver	INFO	Listening on 127.0.0.1:55263
+1610646282131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileUl4lVu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610646284699	Marionette	INFO	Listening on port 55271
+1610646284817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610646287364	Marionette	INFO	Stopped listening on port 55271
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dolev\AppData\Local\Temp\rust_mozprofileUl4lVu\protections.sqlite
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610646522415	geckodriver	INFO	Listening on 127.0.0.1:55396
+1610646525245	geckodriver	INFO	Listening on 127.0.0.1:55403
+1610646527946	geckodriver	INFO	Listening on 127.0.0.1:55410
+1610646529385	geckodriver	INFO	Listening on 127.0.0.1:55413
+1610646532453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileQa066z"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610646535003	Marionette	INFO	Listening on port 55421
+1610646535138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610646540065	Marionette	INFO	Stopped listening on port 55421
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0145,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610646573788	geckodriver	INFO	Listening on 127.0.0.1:55491
+1610646576838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileHIP4vq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610646579510	Marionette	INFO	Listening on port 55500
+1610646579562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610646589655	Marionette	INFO	Stopped listening on port 55500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610646594550	geckodriver	INFO	Listening on 127.0.0.1:55551
+1610646597596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilewY7Vbd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610646600168	Marionette	INFO	Listening on port 55559
+1610646600279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610646610333	Marionette	INFO	Stopped listening on port 55559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
