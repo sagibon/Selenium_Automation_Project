@@ -4,6 +4,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
 
 
 class PageBase:
@@ -12,6 +14,7 @@ class PageBase:
     def __init__(self):
         self.driver = driver.get_driver()
         self._execute_with_wait(ec.invisibility_of_element_located((By.XPATH, '//div[@class="loader"]')))
+        self.action = ActionChains(self.driver)
 
     def _execute_with_wait(self, condition):
         return WebDriverWait(self.driver, TIMED_OUT).until(condition)
@@ -19,7 +22,7 @@ class PageBase:
     def element_exists(self, ltype, selctors):
         try:
             self._execute_with_wait(
-                ec.visibility_of_element_located(
+                ec.element_to_be_clickable(
                     (ltype, selctors))
             )
             return True
@@ -35,3 +38,6 @@ class PageBase:
         if not self.element_exists(ltype, selctors):
             raise NoSuchElementException(f"Could not find {selctors}")
         return self.driver.find_elements(ltype, selctors)
+
+    def go_back(self):
+        self.driver.execute_script("window.history.go(-1)")

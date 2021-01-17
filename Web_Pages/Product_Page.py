@@ -17,3 +17,6 @@ class Product_Page(PageBase):
 
     def get_quantity(self):
         return self.get_element(By.CSS_SELECTOR, 'input[name="quantity"]').get_attribute("quantity")
+
+
+

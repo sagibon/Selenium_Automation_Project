@@ -12,3 +12,6 @@ class Pop_up_checkout(PageBase):
 
     def get_total_quantity(self):
         return self.get_element(By.CSS_SELECTOR, "a[id='shoppingCartLink']>span[class='cart ng-binding']")
+
+    def remove_product(self):
+        self.get_element(By.CSS_SELECTOR, "div[icon-x][class='removeProduct iconCss iconX']").click()

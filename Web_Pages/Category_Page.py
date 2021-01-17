@@ -19,3 +19,7 @@ class Category_Page(PageBase):
 
     def click_on_product(self):  # Choose random product and click
         choice(self.products).click()
+
+    def scan_and_click(self):
+        self.scan_products()
+        self.click_on_product()
