@@ -15,6 +15,24 @@ class Pop_up_checkout(PageBase):
         return self.get_element(By.XPATH, '//tr/td/span/label[@class="roboto-regular ng-binding"]')
 
     def get_names_of_all_products(self):
+        list_names = []
         self.names = self.get_elements(By.XPATH, '//h3[@class="ng-binding"]')
         for product_name in range(len(self.names)):
-            return self.names[product_name].text
+            list_names += [self.names[product_name].text]
+        return list_names
+
+    def get_quantity_of_all_products(self):
+        list_quantity = []
+        self.quantity = self.get_elements(By.XPATH, '//tr/td/a/label[1]')
+        for quantity in range(len(self.quantity)):
+            list_quantity += [self.quantity[quantity].text]
+        return list_quantity
+
+    def get_colors_of_all_products(self):
+        list_colors = []
+        self.colors = self.get_elements(By.XPATH, '//tr/td/a/label/span')
+        for colors in range(len(self.colors)):
+            list_colors += [self.colors[colors].text]
+
+
+
