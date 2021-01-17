@@ -1,5 +1,5 @@
 from Config.Driver import driver
-from config import TIMED_OUT
+from Config.config import TIMED_OUT
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.common.exceptions import NoSuchElementException, TimeoutException

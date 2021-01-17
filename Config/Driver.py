@@ -1,4 +1,4 @@
-from config import DRIVER_PATH
+from Config.config import DRIVER_PATH
 from selenium import webdriver
 
 
@@ -16,7 +16,7 @@ class Driver(object):
         return cls.instance
 
     def __init__(self):
-        self.driver = webdriver.Firefox(executable_path=DRIVER_PATH)
+        self.driver = webdriver.Chrome(executable_path=DRIVER_PATH)
 
     def get_driver(self):
         return self.driver

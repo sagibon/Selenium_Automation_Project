@@ -13,13 +13,16 @@ class AOS_TESTS(unittest.TestCase):
 
     def test_quantity_popup_checkout(self):
         self.main_page.click_on_category('tablets')
-        self.category_page = Category_Page()
-        self.category_page.scan_products()
+        self.category_page = Category_Page()         # click on the category page
+        self.category_page.scan_products()  # get the list of the products that are in stock from the page
         self.category_page.click_on_product()
-        Product_Page().change_quantity(5)
+        self.product_page = Product_Page()
+        self.product_page.change_quantity(3) # change product quantity
+
+
 
     def tearDown(self):
-        time.sleep(5)
+        time.sleep(10)
         # Main_Page.get_main_page()
         self.main_page.driver.quit()
 

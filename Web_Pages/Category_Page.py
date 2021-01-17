@@ -13,6 +13,7 @@ class Category_Page(PageBase):
         super().__init__()
         self.products = []
 
+    # scanning the products in stock only
     def scan_products(self):
         self.products = self.get_elements(By.XPATH, '//img[@class="imgProduct"]')
 

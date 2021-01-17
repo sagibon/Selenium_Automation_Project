@@ -1,10 +1,7 @@
 from selenium.webdriver.common.by import By
-from config import MAIN_PAGE_URL
+from Config.config import MAIN_PAGE_URL
 from Web_Pages.PageBase import PageBase
 from Config.Driver import driver
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
 
 
 class Main_Page(PageBase):
