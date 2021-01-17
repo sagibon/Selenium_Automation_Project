@@ -10,7 +10,7 @@ import time
 
 
 class AOS_TESTS(unittest.TestCase):
-
+    # a function that adds products to the cart, we use this a lot
     def add_product_to_cart(self, quantity):
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
         self.category_page.click_on_product()
@@ -37,7 +37,6 @@ class AOS_TESTS(unittest.TestCase):
         total = self.pop_out.get_total_quantity().text
         self.assertEqual(int(total), 5)
 
-    # test 3
     def test_3(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -55,9 +54,20 @@ class AOS_TESTS(unittest.TestCase):
         self.pop_out = Pop_up_checkout()
         total = self.pop_out.get_total_quantity().text
         self.assertNotEqual(int(total), 5)  # checks if only first products quantity left
-    # test 4
 
-    # test 5
+    def test_4(self):
+        # making an order:
+        self.main_page.click_on_category('speakers')
+        self.category_page = Category_Page()
+        self.category_page.scan_and_click()
+        self.product_page = Product_Page()
+        self.add_product_to_cart(5)
+        self.cart_page = Cart_Page()
+        self.cart_page.go_to_cart()  # go to cart page
+        location = self.cart_page.get_page_path().text  # checks page path
+        print(location, " is SHOPPING CART PAGE")
+        self.assertIn("SHOPPING CART", location)
+
     def test_5(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -76,8 +86,22 @@ class AOS_TESTS(unittest.TestCase):
         print(price + " vs " + price2)
         self.assertEqual(price, price2)
 
+    def test_6(self):
+        self.main_page.click_on_category('laptops')
+        self.category_page = Category_Page()  # click on the category page
+        self.category_page.scan_and_click()
+        self.product_page = Product_Page()
+        self.add_product_to_cart(3)
+        self.product_page.go_back()
+        self.add_product_to_cart(2)
+        # go to cart page
+        self.cart_page = Cart_Page()
+        self.cart_page.go_to_cart()
+        # get the list of current quantities on page
+        print(self.cart_page.get_quantity_list())
+
     def tearDown(self):
-        time.sleep(5)
+        time.sleep(3)
         # Main_Page.get_main_page()
         self.main_page.driver.quit()
 
