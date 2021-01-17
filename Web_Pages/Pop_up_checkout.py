@@ -11,4 +11,4 @@ class Pop_up_checkout(PageBase):
         super().__init__()
 
     def get_total_quantity(self):
-        return self.get_element(By.CSS_SELECTOR, "a[id='shoppingCartLink']>span[class='cart ng-binding']")
+        return self.get_element(By.XPATH, '//tr/td/span/label[@class="roboto-regular ng-binding"]')
