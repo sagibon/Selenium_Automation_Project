@@ -9,6 +9,12 @@ from Web_Pages.PageBase import PageBase
 class Pop_up_checkout(PageBase):
     def __init__(self):
         super().__init__()
+        self.names = []
 
     def get_total_quantity(self):
         return self.get_element(By.XPATH, '//tr/td/span/label[@class="roboto-regular ng-binding"]')
+
+    def get_names_of_all_products(self):
+        self.names = self.get_elements(By.XPATH, '//h3[@class="ng-binding"]')
+        for product_name in range(len(self.names)):
+            return self.names[product_name].text
