@@ -15,3 +15,6 @@ class Pop_up_checkout(PageBase):
 
     def remove_product(self):
         self.get_element(By.CSS_SELECTOR, "div[icon-x][class='removeProduct iconCss iconX']").click()
+
+    def get_total_price(self):
+        return self.get_element(By.ID, "checkOutPopUp")

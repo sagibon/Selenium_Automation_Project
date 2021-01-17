@@ -1,11 +1,10 @@
 import unittest
-
 from selenium.webdriver.common.keys import Keys
-
 from Web_Pages.Main_Page import Main_Page
 from Web_Pages.Category_Page import Category_Page
 from Web_Pages.Product_Page import Product_Page
 from Web_Pages.Pop_up_checkout import Pop_up_checkout
+from Web_Pages.Cart_Page import Cart_Page
 from Web_Pages.PageBase import PageBase
 import time
 
@@ -56,6 +55,26 @@ class AOS_TESTS(unittest.TestCase):
         self.pop_out = Pop_up_checkout()
         total = self.pop_out.get_total_quantity().text
         self.assertNotEqual(int(total), 5)  # checks if only first products quantity left
+    # test 4
+
+    # test 5
+    def test_5(self):
+        self.main_page.click_on_category('tablets')
+        self.category_page = Category_Page()  # click on the category page
+        self.category_page.scan_and_click()
+        self.product_page = Product_Page()
+        self.add_product_to_cart(3)
+        self.product_page.go_back()
+        self.add_product_to_cart(2)
+        # go to cart page
+        self.cart_page = Cart_Page()
+        self.pop_out = Pop_up_checkout()
+        self.cart_page.go_to_cart()
+        price = self.cart_page.get_price().text  # get total cart price
+        price2 = self.pop_out.get_total_price().text  # get pop-out cart price
+        # compare pop-out cart total price to cart page total price
+        print(price + " vs " + price2)
+        self.assertEqual(price, price2)
 
     def tearDown(self):
         time.sleep(5)
