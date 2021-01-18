@@ -3,6 +3,8 @@ from Config.config import MAIN_PAGE_URL
 from Web_Pages.PageBase import PageBase
 from Config.Driver import driver
 import time
+from behave import given, when, then
+
 
 class Main_Page(PageBase):
     categories = {"headphones": "#headphonesImg", "mice": "#miceImg", "laptops": "#laptopsImg",
@@ -11,6 +13,7 @@ class Main_Page(PageBase):
     def __init__(self):
         super().__init__()
 
+    @given('I choose category and click on it')
     def click_on_category(self, category):
         Cat = self.get_element(By.CSS_SELECTOR, self.categories[category])
         Cat.click()

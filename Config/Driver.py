@@ -6,9 +6,6 @@ class Driver(object):
     """Singleton class for interacting with the selenium webdriver object"""
     instance = None
 
-    # class SeleniumDriverNotFound(Exception):
-    #     pass
-
     @classmethod
     def get_instance(cls):
         if cls.instance is None:
@@ -16,7 +13,7 @@ class Driver(object):
         return cls.instance
 
     def __init__(self):
-        self.driver = webdriver.Chrome(executable_path=DRIVER_PATH)
+        self.driver = webdriver.Firefox(executable_path=DRIVER_PATH)
 
     def get_driver(self):
         return self.driver
@@ -30,6 +27,7 @@ class Driver(object):
 
     def navigate(self, url):
         self.driver.get(url)
+
 
 
 driver = Driver.get_instance()
