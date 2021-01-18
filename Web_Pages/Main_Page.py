@@ -13,7 +13,6 @@ class Main_Page(PageBase):
     def __init__(self):
         super().__init__()
 
-    @given('I choose category and click on it')
     def click_on_category(self, category):
         Cat = self.get_element(By.CSS_SELECTOR, self.categories[category])
         Cat.click()
@@ -21,6 +20,10 @@ class Main_Page(PageBase):
     def stop_instance(self):
         self.driver.stop_instance()
 
-    @staticmethod
-    def get_main_page():
+    def get_main_page(self):
         driver.navigate(MAIN_PAGE_URL)
+
+    def check_user_orders(self):
+        self.get_element(By.ID, 'menuUserSVGPath').click()
+        self.get_element(By.XPATH, '//div/label[@translate="My_Orders"][@role="link"]').click()
+        return self.get_element(By.CSS_SELECTOR, 'span[class="ng-binding"]').text

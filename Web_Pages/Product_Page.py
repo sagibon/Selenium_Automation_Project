@@ -26,6 +26,12 @@ class Product_Page(PageBase):
         x = self.get_element(By.CSS_SELECTOR, '.productColor')
         self.color = x.get_attribute("title")
 
+    def buy_product(self, quantity):  # Do all buying action
+        self.change_quantity(quantity)
+        self.choose_color()
+        self.add_to_cart()
+
+
     def get_product_name(self):
         return self.name
 

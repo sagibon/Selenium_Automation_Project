@@ -4,6 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from Config.config import *
 from Web_Pages.PageBase import PageBase
+from selenium.webdriver.common.actions.pointer_actions import PointerActions
 
 
 class Pop_up_checkout(PageBase):
@@ -18,6 +19,19 @@ class Pop_up_checkout(PageBase):
 
     def get_total_quantity(self):
         return self.get_element(By.XPATH, '//tr/td/span/label[@class="roboto-regular ng-binding"]')
+
+    def click_to_checkout(self):
+        self.get_element(By.CSS_SELECTOR, '#checkOutPopUp').click()
+
+    def get_quantity_after_purchase(self):
+        self.get_element(By.ID, 'menuCart').click()
+        return self.get_element(By.CSS_SELECTOR, 'label[translate="Your_shopping_cart_is_empty"]').text
+
+
+
+
+
+
 
     # def get_names_of_all_products(self):
     #     list_names = []

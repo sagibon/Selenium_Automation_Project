@@ -3,15 +3,19 @@ from Web_Pages.Main_Page import Main_Page
 from Web_Pages.Category_Page import Category_Page
 from Web_Pages.Product_Page import Product_Page
 from Web_Pages.Pop_up_checkout import Pop_up_checkout
-import time
+from Web_Pages.OrderPaymentLogin_Page import OrderPaymentLogin
+from Web_Pages.CreateAccount_Page import CreateAccount
+from Web_Pages.PaymentMethod_Page import PaymentMethod_Page
 from Web_Pages.PageBase import PageBase
+import time
 
 
 class AOS_TESTS(unittest.TestCase):
 
     def setUp(self):
-        # Main_Page.get_main_page()
         self.main_page = Main_Page()
+        self.main_page.get_main_page()
+        self.main_page.driver.delete_all_cookies()
         time.sleep(5)
         self.main_page.driver.maximize_window()
 
@@ -20,22 +24,22 @@ class AOS_TESTS(unittest.TestCase):
         # self.main_page.get_main_page()
         # time.sleep(5)
 
-    def test_quantity_popup_checkout(self):
-        self.main_page.click_on_category('tablets')
-        self.category_page = Category_Page()         # click on the category page
-        self.category_page.scan_products()  # get the list of the products that are in stock from the page
-        self.category_page.click_on_product()
-        self.product_page = Product_Page()
-        self.product_page.change_quantity(3)  # change product quantity
-        self.product_page.add_to_cart()
-        self.product_page.go_back()
-        self.category_page.scan_products()
-        self.category_page.click_on_product()
-        self.product_page.change_quantity(2)
-        self.product_page.add_to_cart()
-        self.pop_out = Pop_up_checkout()
-        total = self.pop_out.get_total_quantity().text
-        self.assertIn("5", total)
+    # def test_quantity_popup_checkout(self):
+    #     self.main_page.click_on_category('tablets')
+    #     self.category_page = Category_Page()         # click on the category page
+    #     self.category_page.scan_products()  # get the list of the products that are in stock from the page
+    #     self.category_page.click_on_product()
+    #     self.product_page = Product_Page()
+    #     self.product_page.change_quantity(3)  # change product quantity
+    #     self.product_page.add_to_cart()
+    #     self.product_page.go_back()
+    #     self.category_page.scan_products()
+    #     self.category_page.click_on_product()
+    #     self.product_page.change_quantity(2)
+    #     self.product_page.add_to_cart()
+    #     self.pop_out = Pop_up_checkout()
+    #     total = self.pop_out.get_total_quantity().text
+    #     self.assertIn("5", total)
 
     # def test_test2(self):
     #     self.main_page.click_on_category('tablets')
@@ -92,9 +96,34 @@ class AOS_TESTS(unittest.TestCase):
     #     check_main_page_url = self.page_base.get_current_url()
     #     self.assertEqual(main_page_url, check_main_page_url)
 
+    def test_test8(self):
+        self.main_page.click_on_category('tablets')
+        self.category_page = Category_Page()  # click on the category page
+        self.category_page.scan_products()  # get the list of the products that are in stock from the page
+        self.category_page.click_on_product()  # click on some product
+        self.product_page1 = Product_Page()  # create instance
+        self.product_page1.add_to_cart()  # adding to cart
+        self.pop_up_checkout = Pop_up_checkout()
+        self.pop_up_checkout.click_to_checkout()
+        self.order_payment_login = OrderPaymentLogin()
+        self.order_payment_login.click_to_register()
+        self.create_account = CreateAccount()
+        self.create_account.enter_valid_details()
+        self.create_account.click_next()
+        self.payment_method = PaymentMethod_Page()
+        self.payment_method.pay_with_safepay()
+        self.assertEqual("Thank you for buying with Advantage", self.payment_method.thank_you())
+        self.assertIn("Your shopping cart is empty", self.pop_up_checkout.get_quantity_after_purchase())
+        self.main_page.check_user_orders()
+        self.assertIn(self.product_page1.name, self.main_page.check_user_orders())
+
+
+
+
+
+
     def tearDown(self):
         time.sleep(5)
-        self.main_page.close()
 
 
 if __name__ == '__main__':
