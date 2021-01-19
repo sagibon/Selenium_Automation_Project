@@ -130,7 +130,7 @@ class AOS_TESTS(unittest.TestCase):
         self.pop_up_checkout = Pop_up_checkout()
         self.pop_up_checkout.click_to_checkout()
         self.order_payment_login = OrderPaymentLogin()
-        self.order_payment_login.login_with_exist_user('rsasrxejyr', 'Aasda123')
+        self.order_payment_login.login_with_exist_user('test_xyz', 'Aasd123')
         self.order_payment_login.click_next()
         self.payment_method = PaymentMethod_Page()
         self.payment_method.pay_with_mastercredit()
