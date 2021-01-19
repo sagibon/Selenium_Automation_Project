@@ -1,3 +1,4 @@
+import time
 from random import choice
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -21,3 +22,7 @@ class Category_Page(PageBase):
     def click_on_product(self):  # Choose random product and click
         time.sleep(3)
         choice(self.products).click()
+
+    def scan_and_click(self):
+        self.scan_products()
+        self.click_on_product()

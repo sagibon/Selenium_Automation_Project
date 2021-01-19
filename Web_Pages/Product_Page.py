@@ -31,11 +31,11 @@ class Product_Page(PageBase):
         self.choose_color()
         self.add_to_cart()
 
-
     def get_product_name(self):
         return self.name
 
     def get_quantity(self):
+        return self.get_element(By.CSS_SELECTOR, 'input[name="quantity"]').get_attribute("quantity")
+
+    def get_quantity1(self):
         return self.quantity
-
-

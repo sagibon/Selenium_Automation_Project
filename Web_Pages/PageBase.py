@@ -4,10 +4,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementClickInterceptedException
 from selenium.webdriver.common.by import By
-
-
-def element_not_exists(ltype, selector):
-    WebDriverWait.until()
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
 
 
 class PageBase:
@@ -17,9 +15,10 @@ class PageBase:
         self.driver = driver.get_driver()
         self.driver.implicitly_wait(10)
         self._execute_with_wait(ec.invisibility_of_element_located((By.XPATH, '//div[@class="loader"]')))
+        self.action = ActionChains(self.driver)
 
     def _execute_with_wait(self, condition):
-        return WebDriverWait(self.driver, 20).until(condition)
+        return WebDriverWait(self.driver, TIMED_OUT).until(condition)
 
     def element_exists(self, ltype, selctors):
         try:
@@ -48,6 +47,13 @@ class PageBase:
             raise NoSuchElementException(f"Could not find {selctors}")
         return self.driver.find_elements(ltype, selctors)
 
+    def go_back(self):
+        self.driver.execute_script("window.history.go(-1)")
+
+    def check_page_path(self, ltype, selctors): # checks the path in the left side of the page nav bar
+        if not self.element_exists(ltype, selctors):
+            raise NoSuchElementException(f"Could not find {selctors}")
+        return self.get_element(ltype, selctors)
     def element_not_exist(self, ltype, selectors):
         self._execute_with_wait(ec.invisibility_of_element_located((ltype, selectors)))
 
