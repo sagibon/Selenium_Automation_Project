@@ -29,6 +29,5 @@ class Driver(object):
         self.driver.get(url)
 
 
-
 driver = Driver.get_instance()
 

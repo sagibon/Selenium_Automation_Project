@@ -16,6 +16,7 @@ class PageBase:
         self.driver.implicitly_wait(10)
         self._execute_with_wait(ec.invisibility_of_element_located((By.XPATH, '//div[@class="loader"]')))
         self.action = ActionChains(self.driver)
+        self.driver.delete_all_cookies()
 
     def _execute_with_wait(self, condition):
         return WebDriverWait(self.driver, TIMED_OUT).until(condition)
@@ -54,14 +55,17 @@ class PageBase:
         if not self.element_exists(ltype, selctors):
             raise NoSuchElementException(f"Could not find {selctors}")
         return self.get_element(ltype, selctors)
+
     def element_not_exist(self, ltype, selectors):
         self._execute_with_wait(ec.invisibility_of_element_located((ltype, selectors)))
 
-    def go_back(self):
-        self.driver.execute_script("window.history.go(-1)")
+    def wait_for_clickable(self, ltype, selectors):
+        self._execute_with_wait(ec.element_to_be_clickable((ltype, selectors)))
 
     def close(self):
         self.driver.close()
+        self.driver.quit()
+        self.driver.delete_all_cookies()
 
     def quit(self):
         self.driver.quit()

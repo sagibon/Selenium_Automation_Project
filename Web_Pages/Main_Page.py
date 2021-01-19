@@ -25,8 +25,3 @@ class Main_Page(PageBase):
     def get_main_page(self):
         driver.navigate(MAIN_PAGE_URL)
 
-    def check_user_orders(self):
-        self.get_element(By.ID, 'menuUserSVGPath').click()
-        self.element_not_exist(By.CSS_SELECTOR, 'div[class="emptyCart"]')
-        self.get_element(By.XPATH, '//div/label[@translate="My_Orders"][@role="link"]').click()
-        return self.get_element(By.CSS_SELECTOR, 'span[class="ng-binding"]').text
