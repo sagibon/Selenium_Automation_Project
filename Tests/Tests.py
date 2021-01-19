@@ -14,6 +14,7 @@ class AOS_TESTS(unittest.TestCase):
     def add_product_to_cart(self, quantity):
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
         self.category_page.click_on_product()
+        time.sleep(1)
         self.product_page.change_quantity(quantity)  # change product quantity
         self.product_page.add_to_cart()
         self.product_page.go_back()
@@ -87,7 +88,7 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(price, price2)
 
     def test_6(self):
-        self.main_page.click_on_category('laptops')
+        self.main_page.click_on_category('headphones')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
         self.product_page = Product_Page()
@@ -98,7 +99,24 @@ class AOS_TESTS(unittest.TestCase):
         self.cart_page = Cart_Page()
         self.cart_page.go_to_cart()
         # get the list of current quantities on page
-        print(self.cart_page.get_quantity_list())
+        list1 = self.cart_page.get_quantity_list()  # list of the first  2 product quantities
+        print(list1)
+        self.cart_page.edit_quantity(1)  # goes to edit the products in the first row
+        self.product_page.change_quantity(4)
+        self.product_page.add_to_cart()
+        self.cart_page.go_to_cart()  # navigates to cart page
+        # change the second product quantity
+        self.cart_page.edit_quantity(2)
+        self.product_page.change_quantity(5)
+        self.product_page.add_to_cart()
+        # go to cart page
+        self.cart_page.go_to_cart()
+        list2 = self.cart_page.get_quantity_list() # list of the new product quantities
+        print(list2)
+        self.assertNotEqualEqual(list1, list2)  # comparing both products
+
+    def test_10(self):
+        pass
 
     def tearDown(self):
         time.sleep(3)

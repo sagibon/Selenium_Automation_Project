@@ -1,3 +1,4 @@
+import time
 from random import choice
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -18,6 +19,7 @@ class Category_Page(PageBase):
         self.products = self.get_elements(By.XPATH, '//img[@class="imgProduct"]')
 
     def click_on_product(self):  # Choose random product and click
+        time.sleep(1)
         choice(self.products).click()
 
     def scan_and_click(self):
