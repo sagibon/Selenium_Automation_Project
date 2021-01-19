@@ -19,7 +19,6 @@ class Category_Page(PageBase):
         self.products = self.get_elements(By.XPATH, '//img[@class="imgProduct"]')
 
     def click_on_product(self):  # Choose random product and click
-        time.sleep(1)
         choice(self.products).click()
 
     def scan_and_click(self):
