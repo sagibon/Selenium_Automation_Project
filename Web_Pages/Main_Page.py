@@ -4,6 +4,8 @@ from Web_Pages.PageBase import PageBase
 from Config.Driver import driver
 import time
 from behave import given, when, then
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
 
 
 class Main_Page(PageBase):
@@ -25,5 +27,6 @@ class Main_Page(PageBase):
 
     def check_user_orders(self):
         self.get_element(By.ID, 'menuUserSVGPath').click()
+        self.element_not_exist(By.CSS_SELECTOR, 'div[class="emptyCart"]')
         self.get_element(By.XPATH, '//div/label[@translate="My_Orders"][@role="link"]').click()
         return self.get_element(By.CSS_SELECTOR, 'span[class="ng-binding"]').text

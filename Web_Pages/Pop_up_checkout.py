@@ -25,7 +25,7 @@ class Pop_up_checkout(PageBase):
 
     def get_quantity_after_purchase(self):
         self.get_element(By.ID, 'menuCart').click()
-        return self.get_element(By.CSS_SELECTOR, 'label[translate="Your_shopping_cart_is_empty"]').text
+        return self.get_element(By.XPATH, '//label[@class="roboto-bold ng-scope"]').text
 
 
 

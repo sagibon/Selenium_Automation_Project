@@ -6,6 +6,10 @@ from selenium.common.exceptions import NoSuchElementException, TimeoutException,
 from selenium.webdriver.common.by import By
 
 
+def element_not_exists(ltype, selector):
+    WebDriverWait.until()
+
+
 class PageBase:
     """Base class for all page objects in the Page Object Model"""
 
@@ -15,7 +19,7 @@ class PageBase:
         self._execute_with_wait(ec.invisibility_of_element_located((By.XPATH, '//div[@class="loader"]')))
 
     def _execute_with_wait(self, condition):
-        return WebDriverWait(self.driver, 10).until(condition)
+        return WebDriverWait(self.driver, 20).until(condition)
 
     def element_exists(self, ltype, selctors):
         try:
@@ -43,6 +47,9 @@ class PageBase:
         if not self.element_exists(ltype, selctors):
             raise NoSuchElementException(f"Could not find {selctors}")
         return self.driver.find_elements(ltype, selctors)
+
+    def element_not_exist(self, ltype, selectors):
+        self._execute_with_wait(ec.invisibility_of_element_located((ltype, selectors)))
 
     def go_back(self):
         self.driver.execute_script("window.history.go(-1)")

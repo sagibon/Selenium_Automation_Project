@@ -14,15 +14,14 @@ class CreateAccount(PageBase):
         self.register_button = self.get_element(By.CSS_SELECTOR, '#register_btnundefined')
 
     def enter_valid_details(self):
-        self.username.send_keys("zxfddfffejyr")
-        self.email.send_keys("pfersddfrz@poez.com")
+        self.username.send_keys("zcxcxc")
+        self.email.send_keys("xsaarz@potuez.com")
         self.password.send_keys("Aasda123")
         self.confirm_password.send_keys("Aasda123")
         self.agree_button.click()
         self.register_button.click()
 
-    def click_next(self):
-        self.get_element(By.ID, 'next_btn').click()
+
 
 
 

@@ -81,45 +81,64 @@ class AOS_TESTS(unittest.TestCase):
     #     self.assertEqual(p3, p3_pop_up)
 
     # def test_tet7(self):
-    #     main_page_url = self.page_base.get_current_url()  # get main page URL
+        # main_page_url = self.main_page.get_current_url()  # get main page URL
+        # self.main_page.click_on_category('tablets')
+        # self.category_page = Category_Page()  # click on the category page
+        # tablet_url = self.main_page.get_current_url()  # get current URL
+        # self.category_page.scan_products()  # get the list of the products that are in stock from the page
+        # self.category_page.click_on_product()  # click on some product
+        # self.product_page = Product_Page()  # create instance
+        # self.product_page.add_to_cart()  # adding to cart
+        # self.main_page.go_back()  # go page back
+        # current_url = self.main_page.get_current_url() # get current URL after back page
+        # self.assertEqual(tablet_url, current_url)
+        # self.main_page.go_back()
+        # check_main_page_url = self.main_page.get_current_url()
+        # self.assertEqual(main_page_url, check_main_page_url)
+
+    # def test_test8(self):
     #     self.main_page.click_on_category('tablets')
     #     self.category_page = Category_Page()  # click on the category page
-    #     tablet_url = self.page_base.get_current_url()  # get current URL
     #     self.category_page.scan_products()  # get the list of the products that are in stock from the page
     #     self.category_page.click_on_product()  # click on some product
-    #     self.product_page = Product_Page()  # create instance
-    #     self.product_page.add_to_cart()  # adding to cart
-    #     self.page_base.go_back()  # go page back
-    #     current_url = self.page_base.get_current_url() # get current URL after back page
-    #     self.assertEqual(tablet_url, current_url)
-    #     self.page_base.go_back()
-    #     check_main_page_url = self.page_base.get_current_url()
-    #     self.assertEqual(main_page_url, check_main_page_url)
+    #     self.product_page1 = Product_Page()  # create instance
+    #     self.product_page1.add_to_cart()  # adding to cart
+    #     product_name = self.product_page1.name
+    #     self.pop_up_checkout = Pop_up_checkout()
+    #     self.pop_up_checkout.click_to_checkout()
+    #     self.order_payment_login = OrderPaymentLogin()
+    #     self.order_payment_login.click_to_register()
+    #     self.create_account = CreateAccount()
+    #     self.create_account.enter_valid_details()
+    #     self.order_payment_login.click_next()
+    #     self.payment_method = PaymentMethod_Page()
+    #     self.payment_method.pay_with_safepay()
+    #     self.assertEqual("Thank you for buying with Advantage", self.payment_method.thank_you())
+    #     check_empty = self.pop_up_checkout.get_quantity_after_purchase()
+    #     self.assertIn("Your shopping cart is empty", check_empty)
+    #     x = self.main_page.check_user_orders()
+    #     self.assertEqual(product_name, x.upper())
+    def test_test9(self):
 
-    def test_test8(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
         self.category_page.click_on_product()  # click on some product
         self.product_page1 = Product_Page()  # create instance
         self.product_page1.add_to_cart()  # adding to cart
+        product_name = self.product_page1.name
         self.pop_up_checkout = Pop_up_checkout()
         self.pop_up_checkout.click_to_checkout()
         self.order_payment_login = OrderPaymentLogin()
-        self.order_payment_login.click_to_register()
-        self.create_account = CreateAccount()
-        self.create_account.enter_valid_details()
-        self.create_account.click_next()
+        self.order_payment_login.login_with_exist_user('rsasrxejyr', 'Aasda123')
+        self.order_payment_login.click_next()
         self.payment_method = PaymentMethod_Page()
-        self.payment_method.pay_with_safepay()
+        self.payment_method.pay_with_mastercredit()
         self.assertEqual("Thank you for buying with Advantage", self.payment_method.thank_you())
-        self.assertIn("Your shopping cart is empty", self.pop_up_checkout.get_quantity_after_purchase())
-        self.main_page.check_user_orders()
-        self.assertIn(self.product_page1.name, self.main_page.check_user_orders())
-
-
-
-
+        check_empty = self.pop_up_checkout.get_quantity_after_purchase()
+        self.assertIn("Your shopping cart is empty", check_empty)
+        x = self.main_page.check_user_orders()
+        self.assertEqual(product_name, x.upper())
 
 
     def tearDown(self):
