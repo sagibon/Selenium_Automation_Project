@@ -17,10 +17,10 @@ class Cart_Page(PageBase):
         return self.check_page_path(By.CSS_SELECTOR, "nav[class='pages fixedImportant'] a[class='select  ng-binding']")
 
     def get_quantity_list(self): # get the list composed of product quantities in the cart page
-        rows = self.get_elements(By.CSS_SELECTOR, "tr[class='ng-scope']")
+        rows = self.get_elements(By.CSS_SELECTOR, "table[CLASS='fixedTableEdgeCompatibility'] tr[class='ng-scope']")
         list_quantities = []
-        for row in range(1, len(rows)-1):  # starting from the 1th row, to the number of rows minus header row
-            if row == len(rows):
+        for row in range(1, len(rows)+1):  # starting from the 1th row
+            if row == (len(rows)+1):
                 break
             list_quantities += [self.get_element(By.XPATH, f"//table/tbody/tr[{row}]/td[5]").text]
         return list_quantities
