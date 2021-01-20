@@ -221,8 +221,18 @@ class AOS_TESTS(unittest.TestCase):
         x = self.main_page.check_user_orders()
         self.assertEqual(product_name, x.upper())
 
-    # def test_10(self):
-    #     pass
+    def test_10(self):
+        username = 'test_xyz'
+        password = 'Aasd123'
+        # clicks the login icon above from main and logins
+        self.main_page.click_to_login_from_main_page(username, password)  # signs in with this credentials
+        account_name = self.main_page.check_login_name()
+        self.assertEqual(username, account_name)  # sees if the account shown above the account icon is the same
+        time.sleep(2)  # wait between login and logout
+        self.main_page.logout_user()  # logs out of the account
+        time.sleep(1)  # give time to logout safely
+        account_name = self.main_page.check_login_name()  # resigns new account name
+        self.assertEqual(account_name, 'out')  # if the user is logged out, the check login name method returns "out"
 
     def tearDown(self):
         time.sleep(3)
