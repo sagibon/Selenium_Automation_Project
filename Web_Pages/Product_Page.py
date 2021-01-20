@@ -39,3 +39,7 @@ class Product_Page(PageBase):
 
     def get_quantity1(self):
         return self.quantity
+
+    def get_price(self): # slicing the $ sign off the price
+        price = self.get_element(By.XPATH, '//h2[@class="roboto-thin screen768 ng-binding"]').text[1:].replace(',', '')
+        return float(price)

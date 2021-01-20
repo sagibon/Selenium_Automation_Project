@@ -120,18 +120,25 @@ class AOS_TESTS(unittest.TestCase):
         self.category_page.scan_and_click()
         self.product_page = Product_Page()
         self.add_product_to_cart(3)
+        price1 = self.product_page.get_price()
         self.product_page.go_back()
         self.category_page.scan_and_click()
         self.add_product_to_cart(2)
+        price2 = self.product_page.get_price()
+        self.product_page.go_back()  # go back to the category page
+        self.product_page.go_back()  # go back to the main page aka category menu
+        self.main_page.click_on_category('speakers')  # trying different category
+        self.category_page.scan_and_click()
+        self.add_product_to_cart(4)
+        price3 = self.product_page.get_price()
         # go to cart page
         self.cart_page = Cart_Page()
         self.pop_out = Pop_up_checkout()
         self.cart_page.go_to_cart()
-        price = self.cart_page.get_price().text  # get total cart price
-        price2 = self.pop_out.get_total_price().text  # get pop-out cart price
-        # compare pop-out cart total price to cart page total price
-        print(price + " vs " + price2)
-        self.assertEqual(price, price2)
+        cart_price = self.cart_page.get_price()  # get total cart price
+        # compare each ones price summed to the cart page total price at the end
+        total_price = 3*price1 + 2*price2 + 4*price3 # sums prices we got from each page multiplied by the quantity
+        self.assertEqual(cart_price, total_price)
 
     def test_6(self):
         self.main_page.click_on_category('headphones')

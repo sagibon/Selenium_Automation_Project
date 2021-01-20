@@ -8,12 +8,15 @@ class Cart_Page(PageBase):
         super().__init__()
 
     def get_price(self):
-        return self.get_element(By.ID, "checkOutButton")
+        # return self.get_element(By.ID, "checkOutButton")
+        price = self.get_element(By.CSS_SELECTOR, 'table[class="fixedTableEdgeCompatibility"] \
+                                                    span[class="roboto-medium ng-binding"]')
+        return float(price.text[1:].replace(',', ''))  # deletes the $ and the comma, return a regular number
 
     def go_to_cart(self):
         self.get_element(By.ID, "menuCart").click()
 
-    def get_page_path(self): # checks the path in the left side of the page nav bar
+    def get_page_path(self):  # checks the path in the left side of the page nav bar
         return self.check_page_path(By.CSS_SELECTOR, "nav[class='pages fixedImportant'] a[class='select  ng-binding']")
 
     def get_quantity_list(self): # get the list composed of product quantities in the cart page

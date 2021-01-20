@@ -50,10 +50,11 @@ class PageBase:
     def go_back(self):
         self.driver.execute_script("window.history.go(-1)")
 
-    def check_page_path(self, ltype, selctors): # checks the path in the left side of the page nav bar
+    def check_page_path(self, ltype, selctors):  # checks the path in the left side of the page nav bar
         if not self.element_exists(ltype, selctors):
             raise NoSuchElementException(f"Could not find {selctors}")
         return self.get_element(ltype, selctors)
+
     def element_not_exist(self, ltype, selectors):
         self._execute_with_wait(ec.invisibility_of_element_located((ltype, selectors)))
 
