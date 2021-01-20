@@ -158,7 +158,8 @@ class AOS_TESTS(unittest.TestCase):
         self.cart_page.go_to_cart()
         list2 = self.cart_page.get_quantity_list()  # list of the new product quantities
         print(list2)
-        self.assertNotEqual(list1, list2)  # comparing both products
+        self.assertNotEqual(list1[0], list2[0])  # comparing both products
+        self.assertNotEqual(list1[1], list2[1])  # comparing both products
 
     def test_7(self):
         main_page_url = self.main_page.get_current_url()  # get main page URL

@@ -25,5 +25,5 @@ class Cart_Page(PageBase):
             list_quantities += [self.get_element(By.XPATH, f"//table/tbody/tr[{row}]/td[5]").text]
         return list_quantities
 
-    def edit_quantity(self, row): # edits the product quantity in a specific row in cart page summary table
+    def edit_quantity(self, row):  # edits the product quantity in a specific row in cart page summary table
         self.get_element(By.XPATH, f"//table/tbody/tr[{row}]/td[6]/span/a[@class='edit ng-scope']").click()
