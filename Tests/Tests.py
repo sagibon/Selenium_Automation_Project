@@ -76,9 +76,16 @@ class AOS_TESTS(unittest.TestCase):
         p3 = [self.product_page3.name, self.product_page3.color, self.product_page3.quantity]
         self.p3_pop_up = Pop_up_checkout()
         p3_pop_up = [self.p3_pop_up.name, self.p3_pop_up.color, self.p3_pop_up.quantity]
-        self.assertEqual(p1, p1_pop_up)
-        self.assertEqual(p2, p2_pop_up)
-        self.assertEqual(p3, p3_pop_up)
+        self.assertEqual(p1[1:], p1_pop_up[1:])  # comparing everything but the name, because the pop up name will
+        self.assertEqual(p2[1:], p2_pop_up[1:])  # ...be shortened and requires a different assertion test
+        self.assertEqual(p3[1:], p3_pop_up[1:])
+        # comparing pop up name to name
+        self.assertIn(p1_pop_up[0], p1[0])
+        self.assertIn(p2_pop_up[0], p2[0])
+        self.assertIn(p3_pop_up[0], p3[0])
+        # for p in [p1, p2, p3]:
+        #     p_pop_up = [p1_pop_up, p2_pop_up, p3_pop_up]
+        #     self.assertIn(p[0], p_pop_up[p.index(p)][0])
 
     def test_3(self):
         self.main_page.click_on_category('tablets')
