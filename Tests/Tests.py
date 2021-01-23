@@ -9,6 +9,7 @@ from Web_Pages.OrderPaymentLogin_Page import OrderPaymentLogin
 from Web_Pages.CreateAccount_Page import CreateAccount
 from Web_Pages.PaymentMethod_Page import PaymentMethod_Page
 from Web_Pages.PageBase import PageBase
+from Config.config import TEST_6_ERROR  # error description for test 6
 import time
 
 
@@ -80,9 +81,9 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(p2[1:], p2_pop_up[1:])  # ...be shortened and requires a different assertion test
         self.assertEqual(p3[1:], p3_pop_up[1:])
         # comparing pop up name to name
-        self.assertIn(p1_pop_up[0], p1[0])
-        self.assertIn(p2_pop_up[0], p2[0])
-        self.assertIn(p3_pop_up[0], p3[0])
+        self.assertIn(p1_pop_up[0][:-3], p1[0])  # without the '...' in the end - unnecessary
+        self.assertIn(p2_pop_up[0][:-3], p2[0])
+        self.assertIn(p3_pop_up[0][:-3], p3[0])
         # for p in [p1, p2, p3]:
         #     p_pop_up = [p1_pop_up, p2_pop_up, p3_pop_up]
         #     self.assertIn(p[0], p_pop_up[p.index(p)][0])
@@ -117,6 +118,7 @@ class AOS_TESTS(unittest.TestCase):
         self.add_product_to_cart(5)
         self.cart_page = Cart_Page()
         self.cart_page.go_to_cart()  # go to cart page
+        time.sleep(1)
         location = self.cart_page.get_page_path().text  # checks page path
         print(location, " is SHOPPING CART PAGE")
         self.assertIn("SHOPPING CART", location)
@@ -147,6 +149,7 @@ class AOS_TESTS(unittest.TestCase):
         total_price = 3*price1 + 2*price2 + 4*price3 # sums prices we got from each page multiplied by the quantity
         self.assertEqual(cart_price, total_price)
 
+    @unittest.skip(TEST_6_ERROR)  # prints bug description
     def test_6(self):
         self.main_page.click_on_category('headphones')
         self.category_page = Category_Page()  # click on the category page
@@ -249,11 +252,17 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(account_name, 'out')  # if the user is logged out, the check login name method returns "out"
 
     def tearDown(self):
-        time.sleep(3)
+        time.sleep(2)
         # Main_Page.get_main_page()
         # self.main_page.driver.close()
         self.main_page.driver.delete_all_cookies()
         self.main_page.driver.refresh()
+
+    @classmethod  # closes the window after all the tests are done, when all the test class is activated
+    def tearDownClass(cls):
+        time.sleep(3)
+        cls.main_page = Main_Page()
+        cls.main_page.driver.close()
 
 
 if __name__ == '__main__':

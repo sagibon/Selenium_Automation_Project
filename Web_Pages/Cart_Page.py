@@ -16,8 +16,9 @@ class Cart_Page(PageBase):
     def go_to_cart(self):
         self.get_element(By.ID, "menuCart").click()
 
-    def get_page_path(self):  # checks the path in the left side of the page nav bar
+    def get_page_path(self):  # checks if the page is indeed the shopping cart page
         return self.check_page_path(By.CSS_SELECTOR, "nav[class='pages fixedImportant'] a[class='select  ng-binding']")
+        # return self.get_element(By.CSS_SELECTOR, "section.ng-scope > article > h3")
 
     def get_quantity_list(self): # get the list composed of product quantities in the cart page
         rows = self.get_elements(By.CSS_SELECTOR, "table[CLASS='fixedTableEdgeCompatibility'] tr[class='ng-scope']")
