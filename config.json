@@ -1,5 +1,6 @@
 {
-  "driver_path" : "C:\\Users\\Dolev\\Desktop\\Selenium\\geckodriver.exe",
-  "timed_out" : 8,
-  "main_page_url" : "https://www.advantageonlineshopping.com/#/"
+  "driver_path" : "C:\\Program Files\\Selenium\\chromedriver_win32\\chromedriver.exe",
+  "timed_out" : 5,
+  "main_page_url" : "https://www.advantageonlineshopping.com/#/",
+  "test_6_error_msg": "Test 6 fail. a Bug editing products: even manually editing the second quantity edits the first"
 }
