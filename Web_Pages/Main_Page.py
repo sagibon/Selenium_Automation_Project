@@ -17,6 +17,7 @@ class Main_Page(PageBase):
         super().__init__()
 
     def click_on_category(self, category):
+        self.element_not_exist(By.XPATH, '//div[@class="loader"]')
         Cat = self.get_element(By.CSS_SELECTOR, self.categories[category])
         Cat.click()
 

@@ -16,9 +16,9 @@ class OrderPaymentLogin(PageBase):
         # self.element_exists(By.CSS_SELECTOR, '#registration_btnundefined')
         self.register_button.click()
 
-    def login_with_exist_user(self, ):
-        self.username.send_keys(CreateAccount.new_username)
-        self.password.send_keys(CreateAccount.new_password)
+    def login_with_exist_user(self, username, password):
+        self.username.send_keys(username)
+        self.password.send_keys(password)
         self.login_button.click()
 
     def click_next(self):

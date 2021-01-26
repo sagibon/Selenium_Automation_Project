@@ -20,9 +20,8 @@ class Category_Page(PageBase):
         self.products = self.get_elements(By.XPATH, '//img[@class="imgProduct"]')
 
     def click_on_product(self):  # Choose random product and click
+        time.sleep(3)
+        self.element_not_exist(By.XPATH, '//h3[@class="roboto-regular center ng-scope"')
         self.element_not_exist(By.XPATH, '//div[@class="loader"]')
         choice(self.products).click()
 
-    def scan_and_click(self):
-        self.scan_products()
-        self.click_on_product()

@@ -22,14 +22,15 @@ class CreateAccount(PageBase):
 
     def enter_valid_details(self):
         password = "Aasd123"
-        username = self.username.send_keys(self.generate_username.random_nicks())
-        self.email.send_keys(self.generate_email.randomMail())
+        username = self.generate_username.random_nicks()
+        email = self.generate_email.randomMail()
+        self.username.send_keys(username)
+        self.email.send_keys(email)
         self.password.send_keys(password)
         self.confirm_password.send_keys(password)
         self.agree_button.click()
         self.register_button.click()
-        CreateAccount.new_username = username
-        CreateAccount.new_password = password
+        return [username, password]
 
 
 
