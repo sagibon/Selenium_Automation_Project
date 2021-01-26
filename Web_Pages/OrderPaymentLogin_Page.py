@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from Web_Pages.PageBase import PageBase
+from Web_Pages.CreateAccount_Page import CreateAccount
 
 
 class OrderPaymentLogin(PageBase):
@@ -15,10 +16,10 @@ class OrderPaymentLogin(PageBase):
         # self.element_exists(By.CSS_SELECTOR, '#registration_btnundefined')
         self.register_button.click()
 
-    def login_with_exist_user(self, username, password):
-        self.username.send_keys(username)
-        self.password.send_keys(password)
+    def login_with_exist_user(self, ):
+        self.username.send_keys(CreateAccount.new_username)
+        self.password.send_keys(CreateAccount.new_password)
         self.login_button.click()
 
     def click_next(self):
-        self.get_element(By.XPATH, '//div/button[@data-ng-click="shippingDetails_next()"]').click()
+        self.get_element(By.XPATH, '//*[@id="next_btn"]').click()

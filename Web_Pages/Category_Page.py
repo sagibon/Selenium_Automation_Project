@@ -20,6 +20,7 @@ class Category_Page(PageBase):
         self.products = self.get_elements(By.XPATH, '//img[@class="imgProduct"]')
 
     def click_on_product(self):  # Choose random product and click
+        self.element_not_exist(By.XPATH, '//div[@class="loader"]')
         choice(self.products).click()
 
     def scan_and_click(self):

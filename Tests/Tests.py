@@ -10,6 +10,7 @@ from Web_Pages.CreateAccount_Page import CreateAccount
 from Web_Pages.PaymentMethod_Page import PaymentMethod_Page
 from Web_Pages.PageBase import PageBase
 from Config.config import TEST_6_ERROR  # error description for test 6
+
 import time
 
 
@@ -149,13 +150,14 @@ class AOS_TESTS(unittest.TestCase):
         total_price = 3*price1 + 2*price2 + 4*price3 # sums prices we got from each page multiplied by the quantity
         self.assertEqual(cart_price, total_price)
 
-    @unittest.skip(TEST_6_ERROR)  # prints bug description
+    # @unittest.skip(TEST_6_ERROR)  # prints bug description
     def test_6(self):
         self.main_page.click_on_category('headphones')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
         self.product_page = Product_Page()
         self.add_product_to_cart(3)
+        self.product_page.go_back()
         self.product_page.go_back()
         self.category_page.scan_and_click()
         self.add_product_to_cart(2)
@@ -194,6 +196,7 @@ class AOS_TESTS(unittest.TestCase):
         check_main_page_url = self.main_page.get_current_url()
         self.assertEqual(main_page_url, check_main_page_url)
 
+
     def test_8(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -209,13 +212,13 @@ class AOS_TESTS(unittest.TestCase):
         self.create_account = CreateAccount()
         self.create_account.enter_valid_details()
         self.order_payment_login.click_next()
-        self.payment_method = PaymentMethod_Page()
-        self.payment_method.pay_with_safepay()
-        self.assertEqual("Thank you for buying with Advantage", self.payment_method.thank_you())
-        check_empty = self.pop_up_checkout.get_quantity_after_purchase()
-        self.assertIn("Your shopping cart is empty", check_empty)
-        x = self.main_page.check_user_orders()
-        self.assertEqual(product_name, x.upper())
+        # self.payment_method = PaymentMethod_Page()
+        # self.payment_method.pay_with_safepay()
+        # self.assertEqual("Thank you for buying with Advantage", self.payment_method.thank_you())
+        # check_empty = self.pop_up_checkout.get_quantity_after_purchase()
+        # self.assertIn("Your shopping cart is empty", check_empty)
+        # x = self.main_page.check_user_orders()
+        # self.assertEqual(product_name, x.upper())
 
     def test_9(self):
         self.main_page.click_on_category('tablets')
@@ -228,7 +231,7 @@ class AOS_TESTS(unittest.TestCase):
         self.pop_up_checkout = Pop_up_checkout()
         self.pop_up_checkout.click_to_checkout()
         self.order_payment_login = OrderPaymentLogin()
-        self.order_payment_login.login_with_exist_user('test_xyz', 'Aasd123')
+        self.order_payment_login.login_with_exist_user()
         self.order_payment_login.click_next()
         self.payment_method = PaymentMethod_Page()
         self.payment_method.pay_with_mastercredit()
@@ -252,17 +255,17 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(account_name, 'out')  # if the user is logged out, the check login name method returns "out"
 
     def tearDown(self):
-        time.sleep(2)
+        time.sleep(5)
         # Main_Page.get_main_page()
         # self.main_page.driver.close()
-        self.main_page.driver.delete_all_cookies()
-        self.main_page.driver.refresh()
+        # self.main_page.driver.delete_all_cookies()
+        # self.main_page.driver.refresh()
 
-    @classmethod  # closes the window after all the tests are done, when all the test class is activated
-    def tearDownClass(cls):
-        time.sleep(3)
-        cls.main_page = Main_Page()
-        cls.main_page.driver.close()
+    # @classmethod  # closes the window after all the tests are done, when all the test class is activated
+    # def tearDownClass(cls):
+    #     time.sleep(3)
+    #     cls.main_page = Main_Page()
+    #     cls.main_page.driver.close()
 
 
 if __name__ == '__main__':

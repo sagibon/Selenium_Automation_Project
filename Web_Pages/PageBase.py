@@ -16,7 +16,6 @@ class PageBase:
         self.driver.implicitly_wait(10)
         self._execute_with_wait(ec.invisibility_of_element_located((By.XPATH, '//div[@class="loader"]')))
         self.action = ActionChains(self.driver)
-        self.driver.delete_all_cookies()
 
     def _execute_with_wait(self, condition):
         return WebDriverWait(self.driver, TIMED_OUT).until(condition)

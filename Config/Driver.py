@@ -13,7 +13,7 @@ class Driver(object):
         return cls.instance
 
     def __init__(self):
-        self.driver = webdriver.Chrome(executable_path=DRIVER_PATH)
+        self.driver = webdriver.Firefox(executable_path=DRIVER_PATH)
 
     def get_driver(self):
         return self.driver
