@@ -1,3 +1,4 @@
+
 import unittest
 from selenium.webdriver.common.keys import Keys
 from Web_Pages.Main_Page import Main_Page
@@ -17,7 +18,6 @@ import time
 class AOS_TESTS(unittest.TestCase):
     USERNAME = None
     PASSWORD = None
-
     # a function that adds products to the cart, we use this a lot
     def add_product_to_cart(self, quantity):
         self.product_page.change_quantity(quantity)  # change product quantity
@@ -27,25 +27,21 @@ class AOS_TESTS(unittest.TestCase):
         self.main_page = Main_Page()
         self.main_page.get_main_page()
         self.main_page.driver.delete_all_cookies()
-        time.sleep(3)
         self.main_page.driver.maximize_window()
 
-    # # test 1
-    # def test_1(self):
-    #     self.main_page.click_on_category('tablets')
-    #     self.category_page = Category_Page()         # click on the category page
-    #     self.category_page.scan_and_click()
-    #     self.product_page = Product_Page()
-    #     self.add_product_to_cart(3)
-    #     self.product_page.go_back()
-    #     self.category_page.scan_and_click()
-    #     self.add_product_to_cart(2)
-    #
-    #     # assertion - checking the total number of products in the cart
-    #     self.pop_out = Pop_up_checkout()
-    #     total = self.pop_out.get_total_quantity().text
-    #     self.assertEqual(total, '(5 Items)')
-    #
+    def test_1(self):
+        self.main_page.click_on_category('tablets')
+        self.category_page = Category_Page()         # click on the category page
+        self.category_page.scan_and_click()
+        self.product_page = Product_Page()
+        self.add_product_to_cart(3)
+        self.product_page.go_back()
+        self.category_page.scan_and_click()
+        self.add_product_to_cart(2)
+        self.pop_out = Pop_up_checkout()
+        total = self.pop_out.get_total_quantity().text
+        self.assertEqual(total, '(5 Items)')
+
     def test_2(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
