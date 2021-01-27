@@ -9,7 +9,6 @@ from Web_Pages.OrderPaymentLogin_Page import OrderPaymentLogin
 from Web_Pages.CreateAccount_Page import CreateAccount
 from Web_Pages.PaymentMethod_Page import PaymentMethod_Page
 from Config.config import file, USERNAME, PASSWORD
-
 from Config.config import TEST_6_ERROR  # error description for test 6
 
 
@@ -103,7 +102,6 @@ class AOS_TESTS(unittest.TestCase):
         # removing a product from the popup cart
         self.pop_out = Pop_up_checkout()
         self.pop_out.remove_product()
-
         # assertion - checking the total number of products in the cart
         self.pop_out = Pop_up_checkout()
         total = self.pop_out.get_total_quantity().text
@@ -254,9 +252,9 @@ class AOS_TESTS(unittest.TestCase):
         self.main_page.click_to_login_from_main_page(USERNAME, PASSWORD)  # signs in with this credentials
         account_name = self.main_page.check_login_name()
         self.assertEqual(USERNAME, account_name)  # sees if the account shown above the account icon is the same
-        time.sleep(2)  # wait between login and logout
+        # time.sleep(2)  # wait between login and logout
         self.main_page.logout_user()  # logs out of the account
-        time.sleep(1)  # give time to logout safely
+        # time.sleep(1)  # give time to logout safely
         account_name = self.main_page.check_login_name()  # resigns new account name
         self.assertEqual(account_name, 'out')  # if the user is logged out, the check login name method returns "out"
         AOS_TESTS.STATUS = True
