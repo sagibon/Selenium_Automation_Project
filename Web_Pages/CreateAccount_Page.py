@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from Web_Pages.PageBase import PageBase
 from random_words import RandomEmails
 from random_words import RandomNicknames
+from Config.config import PASSWORD
 
 
 class CreateAccount(PageBase):
@@ -21,7 +22,7 @@ class CreateAccount(PageBase):
         self.generate_username = RandomNicknames()
 
     def enter_valid_details(self):
-        password = "Aasd123"
+        password = PASSWORD
         username = self.generate_username.random_nicks()
         email = self.generate_email.randomMail()
         self.username.send_keys(username)
@@ -31,16 +32,4 @@ class CreateAccount(PageBase):
         self.agree_button.click()
         self.register_button.click()
         return [username, password]
-
-
-
-
-
-# class ShippingMethod_Page(PageBase):
-#     def __init__(self):
-#         super().__init__()
-#         self.next_button = self.get_element(By.ID, 'next_btn')
-#
-#     def click_next(self):
-#         self.next_button.click()
 

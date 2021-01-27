@@ -31,6 +31,11 @@ class Product_Page(PageBase):
         self.choose_color()
         self.add_to_cart()
 
+    # a function that adds products to the cart, we use this a lot
+    def add_product_to_cart(self, quantity):
+        self.change_quantity(quantity)  # change product quantity
+        self.add_to_cart()
+
     def get_product_name(self):
         return self.name
 

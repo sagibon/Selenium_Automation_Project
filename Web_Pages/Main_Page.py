@@ -34,7 +34,7 @@ class Main_Page(PageBase):
         return self.get_element(By.CSS_SELECTOR, 'span[class="ng-binding"]').text
 
     def click_to_login_from_main_page(self, username, password):
-        self.get_element(By.ID, "hrefUserIcon").click()
+        self.get_element(By.ID, "menuUser").click()
         self.get_element(By.CSS_SELECTOR, "input[name='username']").send_keys(username)
         self.get_element(By.CSS_SELECTOR, "input[name='password']").send_keys(password)
         self.get_element(By.ID, "sign_in_btnundefined").click()  # click on sign in
