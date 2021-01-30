@@ -21,4 +21,4 @@ class OrderPaymentLogin(PageBase):
         self.login_button.click()
 
     def click_next(self):
-        self.get_element(By.ID, 'next_btn').click()
+        self.get_element(By.XPATH, '//div/button[@data-ng-click="shippingDetails_next()"]').click()
