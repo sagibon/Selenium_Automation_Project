@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from Config.config import *
 from Web_Pages.PageBase import PageBase
 from selenium.webdriver.common.actions.pointer_actions import PointerActions
+import time
 
 
 class Pop_up_checkout(PageBase):
@@ -24,6 +25,7 @@ class Pop_up_checkout(PageBase):
             return self.get_element(By.XPATH, '//tr/td/span/label[@class="roboto-regular ng-binding"]')
 
         except NoSuchElementException:
+            time.sleep(2)
             return self.get_element(By.CSS_SELECTOR, 'span[class="cart ng-binding"]')
 
     def click_to_checkout(self):

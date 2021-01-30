@@ -1,3 +1,4 @@
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from Config.config import MAIN_PAGE_URL
 from Web_Pages.PageBase import PageBase
@@ -26,7 +27,11 @@ class Main_Page(PageBase):
         self.get_element(By.ID, 'menuUserSVGPath').click()
         self.element_not_exist(By.CSS_SELECTOR, 'div[class="emptyCart"]')
         self.get_element(By.XPATH, '//div/label[@translate="My_Orders"][@role="link"]').click()
-        return self.get_element(By.CSS_SELECTOR, 'span[class="ng-binding"]').text
+        products = self.get_elements(By.CSS_SELECTOR, 'span[class="ng-binding"]')
+        lst = []
+        for i in range(len(products)):  # starting from the 1th row
+            lst += [products[i].text.upper()]
+        return lst
 
     def click_to_login_from_main_page(self, username, password):
         self.get_element(By.ID, "menuUser").click()
