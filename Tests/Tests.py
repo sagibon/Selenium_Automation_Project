@@ -1,5 +1,6 @@
 
 import unittest
+from random_words import RandomEmails, RandomNicknames
 from Web_Pages.Main_Page import Main_Page
 from Web_Pages.Category_Page import Category_Page
 from Web_Pages.Product_Page import Product_Page
@@ -20,6 +21,7 @@ class AOS_TESTS(unittest.TestCase):
     USERNAME = ""
     PASSWORD = ""
     TEST_NAME = ""
+    TEST_NUMBER = None
 
     def setUp(self):
         AOS_TESTS.STATUS = False
@@ -29,7 +31,8 @@ class AOS_TESTS(unittest.TestCase):
         self.main_page.driver.maximize_window()
         time.sleep(3)
 
-    def test_A(self):  # Add 2 products and check total quantity
+    def test_1(self):  # Add 2 products and check total quantity
+        AOS_TESTS.TEST_NUMBER = 1
         AOS_TESTS.TEST_NAME = "Check Total quantity in pop up window"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()         # click on the category page
@@ -44,7 +47,8 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(total, '(5 Items)')
         AOS_TESTS.STATUS = True
 
-    def test_B(self):  # Add 3 products and check details with pop up checkout
+    def test_2(self):  # Add 3 products and check details with pop up checkout
+        AOS_TESTS.TEST_NUMBER = 2
         AOS_TESTS.TEST_NAME = "Check details of 3 products with pop up window"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -89,7 +93,9 @@ class AOS_TESTS(unittest.TestCase):
         self.assertIn(p3_pop_up[0][:-3], p3[0])
         AOS_TESTS.STATUS = True
 
-    def test_C(self):
+    def test_3(self):
+        AOS_TESTS.TEST_NUMBER = 3
+        AOS_TESTS.TEST_NAME = "Checks if deleting a product from the cart works"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
@@ -110,7 +116,9 @@ class AOS_TESTS(unittest.TestCase):
         # previous total
         AOS_TESTS.STATUS = True
 
-    def test_D(self):
+    def test_4(self):
+        AOS_TESTS.TEST_NUMBER = 4
+        AOS_TESTS.TEST_NAME = "Checks if navigating to the cart page brings you to the cart page"
         # making an order:
         self.main_page.click_on_category('speakers')
         self.category_page = Category_Page()
@@ -125,7 +133,9 @@ class AOS_TESTS(unittest.TestCase):
         self.assertIn("SHOPPING CART", location)
         AOS_TESTS.STATUS = True
 
-    def test_E(self):
+    def test_5(self):
+        AOS_TESTS.TEST_NUMBER = 5
+        AOS_TESTS.TEST_NAME = "Checks if the total price in cart is the all individual products price summed correctly"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
@@ -153,7 +163,9 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     @unittest.skip(TEST_6_ERROR)  # prints bug description
-    def test_F(self):
+    def test_6(self):
+        AOS_TESTS.TEST_NUMBER = 6
+        AOS_TESTS.TEST_NAME = "Checks if editing quantity in cart works"
         self.main_page.click_on_category('headphones')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
@@ -182,7 +194,9 @@ class AOS_TESTS(unittest.TestCase):
         self.assertNotEqual(list1[1], list2[1])  # comparing both products
         AOS_TESTS.STATUS = True
 
-    def test_G(self):
+    def test_7(self):
+        AOS_TESTS.TEST_NUMBER = 7
+        AOS_TESTS.TEST_NAME = "check if pages go back when go back is used"
         main_page_url = self.main_page.get_current_url()  # get main page URL
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -199,8 +213,9 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(main_page_url, check_main_page_url)
         AOS_TESTS.STATUS = True
 
-
-    def test_H(self):
+    def test_8(self):
+        AOS_TESTS.TEST_NUMBER = 8
+        AOS_TESTS.TEST_NAME = "checks paying process"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
@@ -226,7 +241,9 @@ class AOS_TESTS(unittest.TestCase):
         self.assertIn(product_name, x)
         AOS_TESTS.STATUS = True
 
-    def test_I(self):
+    def test_9(self):
+        AOS_TESTS.TEST_NUMBER = 9
+        AOS_TESTS.TEST_NAME = "Makes an order and check if its in the user details"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
@@ -247,33 +264,34 @@ class AOS_TESTS(unittest.TestCase):
         x = self.main_page.check_user_orders()
         self.assertIn(product_name, x)
         AOS_TESTS.STATUS = True
-
-    # def test_J(self):
-    #     # clicks the login icon above from main and logins
-    #     self.main_page.click_to_login_from_main_page(USERNAME, PASSWORD)  # signs in with this credentials
-    #     account_name = self.main_page.check_login_name()
-    #     self.assertEqual(USERNAME, account_name)  # sees if the account shown above the account icon is the same
-    #     # time.sleep(2)  # wait between login and logout
-    #     self.main_page.logout_user()  # logs out of the account
-    #     # time.sleep(1)  # give time to logout safely
-    #     account_name = self.main_page.check_login_name()  # resigns new account name
-    #     self.assertEqual(account_name, 'out')  # if the user is logged out, the check login name method returns "out"
-    #     AOS_TESTS.STATUS = True
+        
+    def test_10(self):
+        AOS_TESTS.TEST_NUMBER = 10
+        AOS_TESTS.TEST_NAME = "check if the logout function works and logs out indeed"
+        # clicks the login icon above from main and registers
+        self.main_page.click_to_login_from_main_page(USERNAME, PASSWORD)  # click on user icon
+        account_name = self.main_page.check_login_name()
+        self.assertEqual(USERNAME, account_name)  # sees if the account shown above the account icon is the same
+        time.sleep(2)  # wait between login and logout
+        self.main_page.logout_user()  # logs out of the account
+        time.sleep(1)  # give time to logout safely
+        account_name = self.main_page.check_login_name()  # resigns new account name
+        self.assertEqual(account_name, 'out')  # if the user is logged out, the check login name method returns "out"
+        AOS_TESTS.STATUS = True
 
     def tearDown(self):
-        # if AOS_TESTS.STATUS == True:
-        #     file.write(f"Test number {AOS_TESTS.TEST_NUMBER}: PASS \n")
-        # else:
-        #     file.write(f"Test number {AOS_TESTS.TEST_NUMBER}: FAIL \n")
-        time.sleep(5)
+        if AOS_TESTS.STATUS == True:
+            file.write(f"Test number {AOS_TESTS.TEST_NUMBER}:{AOS_TESTS.TEST_NAME}: PASS \n")
+        else:
+            file.write(f"Test number {AOS_TESTS.TEST_NUMBER}:{AOS_TESTS.TEST_NAME}: FAIL \n")
         self.main_page.driver.delete_all_cookies()
         self.main_page.driver.refresh()
-    #
-    # @classmethod  # closes the window after all the tests are done, when all the test class is activated
-    # def tearDownClass(cls):
-    #     time.sleep(3)
-    #     cls.main_page = Main_Page()
-    #     cls.main_page.driver.close()
+
+    @classmethod  # closes the window after all the tests are done, when all the test class is activated
+    def tearDownClass(cls):
+        time.sleep(3)
+        cls.main_page = Main_Page()
+        cls.main_page.driver.close()
 
 
 if __name__ == '__main__':
