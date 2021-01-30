@@ -2,10 +2,6 @@ from selenium.webdriver.common.by import By
 from Config.config import MAIN_PAGE_URL
 from Web_Pages.PageBase import PageBase
 from Config.Driver import driver
-import time
-from behave import given, when, then
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
 
 
 class Main_Page(PageBase):
@@ -16,6 +12,7 @@ class Main_Page(PageBase):
         super().__init__()
 
     def click_on_category(self, category):
+        self.element_not_exist(By.XPATH, '//div[@class="loader"]')
         Cat = self.get_element(By.CSS_SELECTOR, self.categories[category])
         Cat.click()
 
@@ -32,7 +29,7 @@ class Main_Page(PageBase):
         return self.get_element(By.CSS_SELECTOR, 'span[class="ng-binding"]').text
 
     def click_to_login_from_main_page(self, username, password):
-        self.get_element(By.ID, "hrefUserIcon").click()
+        self.get_element(By.ID, "menuUser").click()
         self.get_element(By.CSS_SELECTOR, "input[name='username']").send_keys(username)
         self.get_element(By.CSS_SELECTOR, "input[name='password']").send_keys(password)
         self.get_element(By.ID, "sign_in_btnundefined").click()  # click on sign in
@@ -43,7 +40,8 @@ class Main_Page(PageBase):
 
     def check_login_name(self):
         try:
-            return self.get_element(By.CSS_SELECTOR, "a[id='menuUserLink']>span[data-ng-show='userCookie.response']").text
+            return self.get_element(By.CSS_SELECTOR,
+                                    "a[id='menuUserLink']>span[data-ng-show='userCookie.response']").text
 
         except NoSuchElementException:
             return "out"

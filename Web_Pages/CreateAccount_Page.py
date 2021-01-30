@@ -1,8 +1,14 @@
 from selenium.webdriver.common.by import By
 from Web_Pages.PageBase import PageBase
+from random_words import RandomEmails
+from random_words import RandomNicknames
+from Config.config import PASSWORD
 
 
 class CreateAccount(PageBase):
+
+    new_username = ""
+    new_password = ""
 
     def __init__(self):
         super().__init__()
@@ -12,24 +18,18 @@ class CreateAccount(PageBase):
         self.confirm_password = self.get_element(By.CSS_SELECTOR, 'input[name="confirm_passwordRegisterPage"]')
         self.agree_button = self.get_element(By.CSS_SELECTOR, 'input[name="i_agree"]')
         self.register_button = self.get_element(By.CSS_SELECTOR, '#register_btnundefined')
+        self.generate_email = RandomEmails()
+        self.generate_username = RandomNicknames()
 
     def enter_valid_details(self):
-        self.username.send_keys("zcxcxc")
-        self.email.send_keys("xsaarz@potuez.com")
-        self.password.send_keys("Aasda123")
-        self.confirm_password.send_keys("Aasda123")
+        password = PASSWORD
+        username = self.generate_username.random_nicks()
+        email = self.generate_email.randomMail()
+        self.username.send_keys(username)
+        self.email.send_keys(email)
+        self.password.send_keys(password)
+        self.confirm_password.send_keys(password)
         self.agree_button.click()
         self.register_button.click()
-
-
-
-
-
-# class ShippingMethod_Page(PageBase):
-#     def __init__(self):
-#         super().__init__()
-#         self.next_button = self.get_element(By.ID, 'next_btn')
-#
-#     def click_next(self):
-#         self.next_button.click()
+        return [username, password]
 

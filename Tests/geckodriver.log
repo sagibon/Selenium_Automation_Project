@@ -1,2 +1,1290 @@
 Invalid port. Exiting...
 Invalid port. Exiting...
+1611655329245	geckodriver	INFO	Listening on 127.0.0.1:50793
+1611655332314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile7wyFRI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611655335654	Marionette	INFO	Listening on port 50802
+1611655335992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611655360167	Marionette	INFO	Stopped listening on port 50802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611655547589	geckodriver	INFO	Listening on 127.0.0.1:50919
+1611655550670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileJf28Jh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611655553134	Marionette	INFO	Listening on port 50927
+1611655553343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611655584265	Marionette	INFO	Stopped listening on port 50927
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611655659322	geckodriver	INFO	Listening on 127.0.0.1:51015
+1611655662378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilevOL6k0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611655665007	Marionette	INFO	Listening on port 51023
+1611655665046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611655692225	Marionette	INFO	Stopped listening on port 51023
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611657805184	geckodriver	INFO	Listening on 127.0.0.1:64561
+1611657808253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileThE6ia"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611657810782	Marionette	INFO	Listening on port 64570
+1611657810919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611657849480	Marionette	INFO	Stopped listening on port 64570
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611657891950	geckodriver	INFO	Listening on 127.0.0.1:64644
+1611657895028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileLzpnzh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611657897401	Marionette	INFO	Listening on port 64652
+1611657897693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611657930554	Marionette	INFO	Stopped listening on port 64652
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611658058634	geckodriver	INFO	Listening on 127.0.0.1:64764
+1611658061719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilei6V1mn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611658064040	Marionette	INFO	Listening on port 64772
+1611658064402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611658097945	Marionette	INFO	Stopped listening on port 64772
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611658134142	geckodriver	INFO	Listening on 127.0.0.1:64842
+1611658137212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileiuve1n"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611658139511	Marionette	INFO	Listening on port 64850
+1611658139869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611658172599	Marionette	INFO	Stopped listening on port 64850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611658217585	geckodriver	INFO	Listening on 127.0.0.1:64926
+1611658220651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileHTd1xl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611658222921	Marionette	INFO	Listening on port 64935
+1611658223330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+1611659337142	Marionette	INFO	Stopped listening on port 64935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+thDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611658341727	Marionette	INFO	Listening on port 65029
+1611658341829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611658521886	Marionette	INFO	Stopped listening on port 65029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611658545746	geckodriver	INFO	Listening on 127.0.0.1:65137
+1611658548830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilemdzPGJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611658551130	Marionette	INFO	Listening on port 65145
+1611658551517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dolev\AppData\Local\Temp\rust_mozprofilemdzPGJ\protections.sqlite
+\\rust_mozprofileMkk6DO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611658651363	Marionette	INFO	Listening on port 65238
+1611658651567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1611660427236	Marionette	INFO	Stopped listening on port 65238
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilePyrxz7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611659842614	Marionette	INFO	Listening on port 49391
+1611659843005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611659852233	Marionette	INFO	Stopped listening on port 49391
+1611659859896	geckodriver	INFO	Listening on 127.0.0.1:49440
+1611659862981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileFtHVmy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611659865613	Marionette	INFO	Listening on port 49448
+1611659865672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Dolev\AppData\Local\Temp\rust_mozprofileFtHVmy\protections.sqlite
+" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilepcLeS4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695375639	Marionette	INFO	Listening on port 54778
+1611695375848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611695400554	Marionette	INFO	Stopped listening on port 54778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611695617297	geckodriver	INFO	Listening on 127.0.0.1:55678
+1611695620350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilehvUjef"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695622689	Marionette	INFO	Listening on port 55686
+1611695623044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611695661999	Marionette	INFO	Stopped listening on port 55686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611695672874	geckodriver	INFO	Listening on 127.0.0.1:55750
+1611695675953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile9U9ryw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695678268	Marionette	INFO	Listening on port 55760
+1611695678645	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611695701885	Marionette	INFO	Stopped listening on port 55760
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611695722717	geckodriver	INFO	Listening on 127.0.0.1:55819
+1611695725752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilezwrAYa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695728046	Marionette	INFO	Listening on port 55829
+1611695728443	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611695739718	Marionette	INFO	Stopped listening on port 55829
+1611695773992	geckodriver	INFO	Listening on 127.0.0.1:55890
+1611695777051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileJ6M08s"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695779394	Marionette	INFO	Listening on port 55899
+1611695779748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611695802548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1611695826140	Marionette	INFO	Stopped listening on port 55899
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611695975505	geckodriver	INFO	Listening on 127.0.0.1:56007
+1611695978544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilehQBkde"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695980900	Marionette	INFO	Listening on port 56015
+1611695981226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611696003344	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+1611696004640	Marionette	INFO	Stopped listening on port 56015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611696176020	geckodriver	INFO	Listening on 127.0.0.1:56114
+1611696179080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileTufZTB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611696181635	Marionette	INFO	Listening on port 56122
+1611696181778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611696210286	Marionette	INFO	Stopped listening on port 56122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611696243502	geckodriver	INFO	Listening on 127.0.0.1:56189
+1611696256922	geckodriver	INFO	Listening on 127.0.0.1:56200
+1611696259968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileBWXTd6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611696262331	Marionette	INFO	Listening on port 56209
+1611696262666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611696324231	Marionette	INFO	Stopped listening on port 56209
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611696363174	geckodriver	INFO	Listening on 127.0.0.1:56290
+1611696366230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileLD1LmK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611696368514	Marionette	INFO	Listening on port 56299
+1611696368912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611696402804	Marionette	INFO	Stopped listening on port 56299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611696454203	geckodriver	INFO	Listening on 127.0.0.1:56384
+1611696457240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileGY7H8a"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611696459557	Marionette	INFO	Listening on port 56393
+1611696459943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611696519776	Marionette	INFO	Stopped listening on port 56393
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611697077252	geckodriver	INFO	Listening on 127.0.0.1:56639
+1611697080312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileMYk2ll"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611697082835	Marionette	INFO	Listening on port 56647
+1611697083011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611697162994	Marionette	INFO	Stopped listening on port 56647
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611697204068	geckodriver	INFO	Listening on 127.0.0.1:56744
+1611697207121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileY2wXaM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611697209429	Marionette	INFO	Listening on port 56753
+1611697209802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611697262694	Marionette	INFO	Stopped listening on port 56753
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611697295423	geckodriver	INFO	Listening on 127.0.0.1:56844
+1611697298460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileJZaEfJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611697300741	Marionette	INFO	Listening on port 56854
+1611697301168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611697353851	Marionette	INFO	Stopped listening on port 56854
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611697590435	geckodriver	INFO	Listening on 127.0.0.1:56993
+1611697593508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile3Fq4Er"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611697595759	Marionette	INFO	Listening on port 57003
+1611697596181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611697651389	Marionette	INFO	Stopped listening on port 57003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611697876794	geckodriver	INFO	Listening on 127.0.0.1:57130
+1611697879873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile9WqInb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611697882201	Marionette	INFO	Listening on port 57139
+1611697882573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611697957059	Marionette	INFO	Stopped listening on port 57139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611698151686	geckodriver	INFO	Listening on 127.0.0.1:57271
+1611698154738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofiley5x7Lj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611698157104	Marionette	INFO	Listening on port 57279
+1611698157398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611698178711	Marionette	INFO	Stopped listening on port 57279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611743681108	geckodriver	INFO	Listening on 127.0.0.1:62295
+1611743684203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileIaOo5t"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611743687570	Marionette	INFO	Listening on port 62303
+1611743687894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.advantageonlineshopping.com/vendor/requirejs/require.js, line 165: Error: Load timeout for modules: main.min
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://www.advantageonlineshopping.com/vendor/requirejs/require.js, line 165: Error: Script error for "main.min"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611743776728	Marionette	INFO	Stopped listening on port 62303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611743781055	geckodriver	INFO	Listening on 127.0.0.1:62387
+1611743784135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilePmkIYt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611743786544	Marionette	INFO	Listening on port 62397
+1611743786808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.advantageonlineshopping.com/vendor/requirejs/require.js, line 165: Error: Load timeout for modules: main.min
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://www.advantageonlineshopping.com/vendor/requirejs/require.js, line 165: Error: Script error for "main.min"
+http://requirejs.org/docs/errors.html#scripterror
+1611743817248	Marionette	INFO	Stopped listening on port 62397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611744942279	geckodriver	INFO	Listening on 127.0.0.1:62833
+1611744945356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileDO6xCV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611744947798	Marionette	INFO	Listening on port 62841
+1611744948031	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+1611744954837	Marionette	INFO	Stopped listening on port 62841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611744980802	geckodriver	INFO	Listening on 127.0.0.1:62877
+1611744988356	geckodriver	INFO	Listening on 127.0.0.1:62888
+1611744991424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileIvCZgN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611744993849	Marionette	INFO	Listening on port 62897
+1611744994085	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://www.advantageonlineshopping.com/vendor/requirejs/require.js, line 165: Error: Load timeout for modules: main.min
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://www.advantageonlineshopping.com/vendor/requirejs/require.js, line 165: Error: Script error for "main.min"
+http://requirejs.org/docs/errors.html#scripterror
+1611745077734	Marionette	INFO	Stopped listening on port 62897
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611745982699	geckodriver	INFO	Listening on 127.0.0.1:63440
+1611745985789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile2dhex8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611745988250	Marionette	INFO	Listening on port 63450
+1611745988468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611746011311	Marionette	INFO	Stopped listening on port 63450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611746230844	geckodriver	INFO	Listening on 127.0.0.1:63584
+1611746233922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile6qe8FE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611746236379	Marionette	INFO	Listening on port 63593
+1611746236586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611746259194	Marionette	INFO	Stopped listening on port 63593
+1611746395765	geckodriver	INFO	Listening on 127.0.0.1:63690
+1611746398846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileONwLmh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611746401191	Marionette	INFO	Listening on port 63698
+1611746401525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611746424486	Marionette	INFO	Stopped listening on port 63698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611746757094	geckodriver	INFO	Listening on 127.0.0.1:63858
+1611746760160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileDxUx6c"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611746762661	Marionette	INFO	Listening on port 63866
+1611746762854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611746787295	Marionette	INFO	Stopped listening on port 63866
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611746994601	geckodriver	INFO	Listening on 127.0.0.1:63990
+1611746997666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileRWMSAR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611747985020	geckodriver	INFO	Listening on 127.0.0.1:64318
+1611747988083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileP0wtMH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611747990504	Marionette	INFO	Listening on port 64327
+1611747990746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611748012844	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+loadServer@https://www.advantageonlineshopping.com/main.min.js:5070:25
+@https://www.advantageonlineshopping.com/main.min.js:918:29
+e@https://www.advantageonlineshopping.com/main.min.js:40:19
+df/this.$get</</<@https://www.advantageonlineshopping.com/main.min.js:81:200
+y@https://www.advantageonlineshopping.com/main.min.js:61:91
+g@https://www.advantageonlineshopping.com/main.min.js:54:250
+g@https://www.advantageonlineshopping.com/main.min.js:54:267
+g@https://www.advantageonlineshopping.com/main.min.js:54:267
+I/<@https://www.advantageonlineshopping.com/main.min.js:53:396
+c/</<@https://www.advantageonlineshopping.com/main.min.js:20:103
+$eval@https://www.advantageonlineshopping.com/main.min.js:135:219
+$apply@https://www.advantageonlineshopping.com/main.min.js:135:452
+c/<@https://www.advantageonlineshopping.com/main.min.js:20:59
+e@https://www.advantageonlineshopping.com/main.min.js:40:19
+c@https://www.advantageonlineshopping.com/main.min.js:19:482
+yc/da.resumeBootstrap@https://www.advantageonlineshopping.com/main.min.js:20:372
+@https://www.advantageonlineshopping.com/main.min.js:17158:21
+execCb@https://www.advantageonlineshopping.com/vendor/requirejs/require.js:1690:33
+check@https://www.advantageonlineshopping.com/vendor/requirejs/require.js:865:51
+enable@https://www.advantageonlineshopping.com/vendor/requirejs/require.js:1177:22
+init@https://www.advantageonlineshopping.com/vendor/requirejs/require.js:783:26
+localRequire/<@https://www.advantageonlineshopping.com/vendor/requirejs/require.js:1453:36
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611748029522	Marionette	INFO	Stopped listening on port 64327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611748120998	geckodriver	INFO	Listening on 127.0.0.1:64423
+1611748124069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileMhqpnl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611748126381	Marionette	INFO	Listening on port 64431
+1611748126737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611748151416	Marionette	INFO	Stopped listening on port 64431
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0145,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611748283510	geckodriver	INFO	Listening on 127.0.0.1:64532
+1611748286587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile2srp2Q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611748288920	Marionette	INFO	Listening on port 64541
+1611748289278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611748324563	Marionette	INFO	Stopped listening on port 64541
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611748333095	geckodriver	INFO	Listening on 127.0.0.1:64606
+1611748336166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilebKgAgS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611748338472	Marionette	INFO	Listening on port 64616
+1611748338830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611748378794	Marionette	INFO	Stopped listening on port 64616
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 7564, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611757849765	geckodriver	INFO	Listening on 127.0.0.1:51497
+1611757852845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilefYWgMI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611757855195	Marionette	INFO	Listening on port 51505
+1611757855540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611757890628	Marionette	INFO	Stopped listening on port 51505
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611758021510	geckodriver	INFO	Listening on 127.0.0.1:57517
+1611758024596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileL5EaBN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611758026907	Marionette	INFO	Listening on port 57525
+1611758027288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611758086117	Marionette	INFO	Stopped listening on port 57525
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761859508	geckodriver	INFO	Listening on 127.0.0.1:59342
+1611761862565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilemBRIxI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761884898	geckodriver	INFO	Listening on 127.0.0.1:59418
+1611761887974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileOfTXjB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761890612	Marionette	INFO	Listening on port 59438
+1611761890660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761917279	Marionette	INFO	Stopped listening on port 59438
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762022816	geckodriver	INFO	Listening on 127.0.0.1:59563
+1611762025921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilecZCju4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762028455	Marionette	INFO	Listening on port 59573
+1611762028604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762069450	Marionette	INFO	Stopped listening on port 59573
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762726619	geckodriver	INFO	Listening on 127.0.0.1:60612
+1611762729679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilez5Mxne"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762732731	Marionette	INFO	Listening on port 60623
+1611762732873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762775542	Marionette	INFO	Stopped listening on port 60623
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762800507	geckodriver	INFO	Listening on 127.0.0.1:60732
+1611762803572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileuIbhZs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762806094	Marionette	INFO	Listening on port 60743
+1611762806281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611762856414	Marionette	INFO	Stopped listening on port 60743
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611763241524	geckodriver	INFO	Listening on 127.0.0.1:60994
+1611763244584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileSmGDqD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611763247128	Marionette	INFO	Listening on port 61002
+1611763247276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611763496355	Marionette	INFO	Stopped listening on port 61002
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611763587659	geckodriver	INFO	Listening on 127.0.0.1:61181
+1611763590731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilelqpVg6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611763593318	Marionette	INFO	Listening on port 61190
+1611763593399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611763634278	Marionette	INFO	Stopped listening on port 61190
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611763789453	geckodriver	INFO	Listening on 127.0.0.1:61300
+1611763792522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileg1FXL1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611763795091	Marionette	INFO	Listening on port 61308
+1611763795212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611763835119	Marionette	INFO	Stopped listening on port 61308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611764076996	geckodriver	INFO	Listening on 127.0.0.1:61492
+1611764080067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileAbWtP0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611764082738	Marionette	INFO	Listening on port 61500
+1611764083273	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611764128535	Marionette	INFO	Stopped listening on port 61500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611764141444	geckodriver	INFO	Listening on 127.0.0.1:61572
+1611764144507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilelk04gZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611764146978	Marionette	INFO	Listening on port 61582
+1611764147182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611764377025	Marionette	INFO	Stopped listening on port 61582
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611769712818	geckodriver	INFO	Listening on 127.0.0.1:59877
+1611769715906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileN85gSI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611769718319	Marionette	INFO	Listening on port 59888
+1611769718558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611769922530	Marionette	INFO	Stopped listening on port 59888
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611770502430	geckodriver	INFO	Listening on 127.0.0.1:60227
+1611770505518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilesxGPd8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611770507930	Marionette	INFO	Listening on port 60235
+1611770508182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611770534796	Marionette	INFO	Stopped listening on port 60235
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611770543977	geckodriver	INFO	Listening on 127.0.0.1:60296
+1611770547055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile8ASYOk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611770549369	Marionette	INFO	Listening on port 60305
+1611770549721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611770576797	Marionette	INFO	Stopped listening on port 60305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611770814054	geckodriver	INFO	Listening on 127.0.0.1:60476
+1611770817120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile2toZu9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611770819466	Marionette	INFO	Listening on port 60487
+1611770819799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+1611771021574	Marionette	INFO	Stopped listening on port 60487
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611774459205	geckodriver	INFO	Listening on 127.0.0.1:65402
+1611774462270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileQc46n4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611774464621	Marionette	INFO	Listening on port 65413
+1611774464956	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+1611774498086	Marionette	INFO	Stopped listening on port 65413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611774502428	geckodriver	INFO	Listening on 127.0.0.1:65470
+1611774505502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileTEyToU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611774507779	Marionette	INFO	Listening on port 65480
+1611774508180	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+1611774531496	Marionette	INFO	Stopped listening on port 65480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611774654844	geckodriver	INFO	Listening on 127.0.0.1:49189
+1611774657927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileexKIaK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611774660260	Marionette	INFO	Listening on port 49202
+1611774660594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611774698652	Marionette	INFO	Stopped listening on port 49202
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Invalid port. Exiting...

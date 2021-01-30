@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from Web_Pages.PageBase import PageBase
+from Web_Pages.CreateAccount_Page import CreateAccount
 
 
 class OrderPaymentLogin(PageBase):
@@ -21,4 +22,4 @@ class OrderPaymentLogin(PageBase):
         self.login_button.click()
 
     def click_next(self):
-        self.get_element(By.XPATH, '//div/button[@data-ng-click="shippingDetails_next()"]').click()
+        self.get_element(By.XPATH, '//*[@id="next_btn"]').click()
