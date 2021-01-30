@@ -3,10 +3,6 @@ from selenium.webdriver.common.by import By
 from Config.config import MAIN_PAGE_URL
 from Web_Pages.PageBase import PageBase
 from Config.Driver import driver
-import time
-from behave import given, when, then
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
 
 
 class Main_Page(PageBase):
@@ -45,7 +41,8 @@ class Main_Page(PageBase):
 
     def check_login_name(self):
         try:
-            return self.get_element(By.CSS_SELECTOR, "a[id='menuUserLink']>span[data-ng-show='userCookie.response']").text
+            return self.get_element(By.CSS_SELECTOR,
+                                    "a[id='menuUserLink']>span[data-ng-show='userCookie.response']").text
 
         except NoSuchElementException:
             return "out"

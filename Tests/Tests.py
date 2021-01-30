@@ -16,21 +16,21 @@ import time
 
 
 class AOS_TESTS(unittest.TestCase):
-    STATUS = True
-    TEST_NUMBER = 0
+    STATUS = None
     USERNAME = None
     PASSWORD = None
+    TEST_NAME = None
 
     def setUp(self):
         AOS_TESTS.STATUS = False
-        AOS_TESTS.TEST_NUMBER += 1
         self.main_page = Main_Page()
         self.main_page.get_main_page()
         self.main_page.driver.delete_all_cookies()
         self.main_page.driver.maximize_window()
         time.sleep(3)
 
-    def test_1(self):  # Add 2 products and check total quantity
+    def test_A(self):  # Add 2 products and check total quantity
+        AOS_TESTS.TEST_NAME = "Check Total quantity in pop up window"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()         # click on the category page
         self.category_page.scan_and_click()
@@ -44,7 +44,8 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(total, '(5 Items)')
         AOS_TESTS.STATUS = True
 
-    def test_2(self):  # Add 3 products and check details with pop up checkout
+    def test_B(self):  # Add 3 products and check details with pop up checkout
+        AOS_TESTS.TEST_NAME = "Check details of 3 products with pop up window"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
@@ -88,7 +89,7 @@ class AOS_TESTS(unittest.TestCase):
         self.assertIn(p3_pop_up[0][:-3], p3[0])
         AOS_TESTS.STATUS = True
 
-    def test_3(self):
+    def test_C(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
@@ -109,7 +110,7 @@ class AOS_TESTS(unittest.TestCase):
         # previous total
         AOS_TESTS.STATUS = True
 
-    def test_4(self):
+    def test_D(self):
         # making an order:
         self.main_page.click_on_category('speakers')
         self.category_page = Category_Page()
@@ -124,7 +125,7 @@ class AOS_TESTS(unittest.TestCase):
         self.assertIn("SHOPPING CART", location)
         AOS_TESTS.STATUS = True
 
-    def test_5(self):
+    def test_E(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
@@ -152,7 +153,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     # @unittest.skip(TEST_6_ERROR)  # prints bug description
-    def test_6(self):
+    def test_F(self):
         self.main_page.click_on_category('headphones')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
@@ -181,7 +182,7 @@ class AOS_TESTS(unittest.TestCase):
         self.assertNotEqual(list1[1], list2[1])  # comparing both products
         AOS_TESTS.STATUS = True
 
-    def test_7(self):
+    def test_G(self):
         main_page_url = self.main_page.get_current_url()  # get main page URL
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -199,7 +200,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
 
-    def test_8(self):
+    def test_H(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
@@ -225,7 +226,7 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(product_name, x.upper())
         AOS_TESTS.STATUS = True
 
-    def test_9(self):
+    def test_I(self):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
@@ -247,7 +248,7 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(product_name, x.upper())
         AOS_TESTS.STATUS = True
 
-    def test_90(self):
+    def test_J(self):
         # clicks the login icon above from main and logins
         self.main_page.click_to_login_from_main_page(USERNAME, PASSWORD)  # signs in with this credentials
         account_name = self.main_page.check_login_name()
