@@ -1,6 +1,6 @@
 import json
 
-with open(r"C:\Users\sagib\PycharmProjects\SeleniumDolevSagi\config.json") as config:
+with open(r"C:\Users\Dolev\Desktop\SeleniumDolevSagi_new\config.json") as config:
     config = json.load(config)
 
 DRIVER_PATH = config["driver_path"]
@@ -10,4 +10,4 @@ TEST_6_ERROR = config["test_6_error_msg"]
 USERNAME = config["username"]
 PASSWORD = config["password"]
 
-file = open(r"C:\Users\sagib\PycharmProjects\SeleniumDolevSagi\RESULTS.txt", "w")
+file = open(r"C:\Users\Dolev\Desktop\SeleniumDolevSagi_new\RESULTS.txt", "w")
