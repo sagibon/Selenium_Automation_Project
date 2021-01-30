@@ -20,6 +20,7 @@ class AOS_TESTS(unittest.TestCase):
     USERNAME = None
     PASSWORD = None
     TEST_NAME = None
+    TEST_NUMBER = None
 
     def setUp(self):
         AOS_TESTS.STATUS = False
@@ -30,6 +31,7 @@ class AOS_TESTS(unittest.TestCase):
         time.sleep(3)
 
     def test_1(self):  # Add 2 products and check total quantity
+        AOS_TESTS.TEST_NUMBER = 1
         AOS_TESTS.TEST_NAME = "Check Total quantity in pop up window"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()         # click on the category page
@@ -45,6 +47,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_2(self):  # Add 3 products and check details with pop up checkout
+        AOS_TESTS.TEST_NUMBER = 2
         AOS_TESTS.TEST_NAME = "Check details of 3 products with pop up window"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -90,6 +93,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_3(self):
+        AOS_TESTS.TEST_NUMBER = 3
         AOS_TESTS.TEST_NAME = "Checks if deleting a product from the cart works"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -112,6 +116,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_4(self):
+        AOS_TESTS.TEST_NUMBER = 4
         AOS_TESTS.TEST_NAME = "Checks if navigating to the cart page brings you to the cart page"
         # making an order:
         self.main_page.click_on_category('speakers')
@@ -128,6 +133,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_5(self):
+        AOS_TESTS.TEST_NUMBER = 5
         AOS_TESTS.TEST_NAME = "Checks if the total price in cart is the all individual products price summed correctly"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -157,6 +163,7 @@ class AOS_TESTS(unittest.TestCase):
 
     @unittest.skip(TEST_6_ERROR)  # prints bug description
     def test_6(self):
+        AOS_TESTS.TEST_NUMBER = 6
         AOS_TESTS.TEST_NAME = "Checks if editing quantity in cart works"
         self.main_page.click_on_category('headphones')
         self.category_page = Category_Page()  # click on the category page
@@ -187,6 +194,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_7(self):
+        AOS_TESTS.TEST_NUMBER = 7
         AOS_TESTS.TEST_NAME = "check if pages go back when go back is used"
         main_page_url = self.main_page.get_current_url()  # get main page URL
         self.main_page.click_on_category('tablets')
@@ -205,6 +213,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_8(self):
+        AOS_TESTS.TEST_NUMBER = 8
         AOS_TESTS.TEST_NAME = "checks paying process"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -232,6 +241,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_9(self):
+        AOS_TESTS.TEST_NUMBER = 9
         AOS_TESTS.TEST_NAME = "Makes an order and check if its in the user details"
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
@@ -255,6 +265,7 @@ class AOS_TESTS(unittest.TestCase):
         AOS_TESTS.STATUS = True
 
     def test_10(self):
+        AOS_TESTS.TEST_NUMBER = 10
         AOS_TESTS.TEST_NAME = "check if the logout function works and logs out indeed"
         # clicks the login icon above from main and registers
         self.main_page.click_to_login_from_main_page(USERNAME, PASSWORD)  # click on user icon
@@ -269,9 +280,9 @@ class AOS_TESTS(unittest.TestCase):
 
     def tearDown(self):
         if AOS_TESTS.STATUS == True:
-            file.write(f"Test number {AOS_TESTS.TEST_NAME}: PASS \n")
+            file.write(f"Test number {AOS_TESTS.TEST_NUMBER}:{AOS_TESTS.TEST_NAME}: PASS \n")
         else:
-            file.write(f"Test number {AOS_TESTS.TEST_NAME}: FAIL \n")
+            file.write(f"Test number {AOS_TESTS.TEST_NUMBER}:{AOS_TESTS.TEST_NAME}: FAIL \n")
         self.main_page.driver.delete_all_cookies()
         self.main_page.driver.refresh()
 
