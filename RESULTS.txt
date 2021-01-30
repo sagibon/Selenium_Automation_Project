@@ -1,9 +1,1 @@
-Test number 1:Check Total quantity in pop up window: PASS 
 Test number 10:check if the logout function works and logs out indeed: PASS 
-Test number 2:Check details of 3 products with pop up window: PASS 
-Test number 3:Checks if deleting a product from the cart works: PASS 
-Test number 4:Checks if navigating to the cart page brings you to the cart page: PASS 
-Test number 5:Checks if the total price in cart is the all individual products price summed correctly: PASS 
-Test number 7:check if pages go back when go back is used: PASS 
-Test number 8:checks paying process: PASS 
-Test number 9:Makes an order and check if its in the user details: FAIL 

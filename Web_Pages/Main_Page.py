@@ -37,25 +37,15 @@ class Main_Page(PageBase):
             lst += [products[i].text.upper()]
         return lst
 
-    def enter_valid_details(self):
-        password = PASSWORD
-        username = self.generate_username.random_nicks()
-        email = self.generate_email.randomMail()
-        self.username.send_keys(username)
-        self.email.send_keys(email)
-        self.password.send_keys(password)
-        self.confirm_password.send_keys(password)
-        self.agree_button.click()
-        self.register_button.click()
-        return [username, password]
-
     def click_to_login_from_main_page(self, username, password):
+        self.element_not_exist(By.XPATH, '//div[@class="loader"]')
         self.get_element(By.ID, "menuUser").click()
         self.get_element(By.CSS_SELECTOR, "input[name='username']").send_keys(username)
         self.get_element(By.CSS_SELECTOR, "input[name='password']").send_keys(password)
         self.get_element(By.ID, "sign_in_btnundefined").click()  # click on sign in
 
     def logout_user(self):
+        self.element_not_exist(By.XPATH,'//div[@class="PopUp"]')
         self.get_element(By.ID, "hrefUserIcon").click()
         self.get_element(By.CSS_SELECTOR, "div[id='loginMiniTitle']>label[translate='Sign_out']").click()
 
@@ -64,4 +54,4 @@ class Main_Page(PageBase):
             return self.get_element(By.CSS_SELECTOR,
                                     "a[id='menuUserLink']>span[data-ng-show='userCookie.response']").text
         except NoSuchElementException:
-            return "out"
+            return ""
