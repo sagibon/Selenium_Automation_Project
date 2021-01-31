@@ -26,7 +26,7 @@ class Category_Page(PageBase):
         self.element_not_exist(By.XPATH, '//div[@class="loader"]')
         choice(Category_Page.PRODUCTS).click()
 
-    def scan_and_click(self):
+    def scan_and_click(self):  # scans products and clicks on one of them
         self.scan_products()
         self.click_on_product()
 

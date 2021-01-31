@@ -8,12 +8,11 @@ class Cart_Page(PageBase):
         super().__init__()
 
     def get_price(self):
-        # return self.get_element(By.ID, "checkOutButton")
         price = self.get_element(By.CSS_SELECTOR, 'table[class="fixedTableEdgeCompatibility"] \
                                                     span[class="roboto-medium ng-binding"]')
         return float(price.text[1:].replace(',', ''))  # deletes the $ and the comma, return a regular number
 
-    def go_to_cart(self):
+    def go_to_cart(self): # clicks on cart to go to cart page
         self.get_element(By.ID, "menuCart").click()
 
     def get_page_path(self):  # checks if the page is indeed the shopping cart page

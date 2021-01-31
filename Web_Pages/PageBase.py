@@ -20,7 +20,7 @@ class PageBase:
     def _execute_with_wait(self, condition):
         return WebDriverWait(self.driver, TIMED_OUT).until(condition)
 
-    def element_exists(self, ltype, selctors):
+    def element_exists(self, ltype, selctors): # waits until element is clickable and visible
         try:
             self._execute_with_wait(
                 ec.visibility_of_any_elements_located(
@@ -37,7 +37,7 @@ class PageBase:
             )
             return True
 
-    def get_element(self, ltype,  selctors):
+    def get_element(self, ltype,  selctors):  # return the element from the page
         if not self.element_exists(ltype, selctors):
             raise NoSuchElementException(f"Could not find {selctors}")
         return self.driver.find_element(ltype, selctors)
@@ -47,7 +47,7 @@ class PageBase:
             raise NoSuchElementException(f"Could not find {selctors}")
         return self.driver.find_elements(ltype, selctors)
 
-    def go_back(self):
+    def go_back(self):  # goes back in the browser
         self.driver.execute_script("window.history.go(-1)")
 
     def check_page_path(self, ltype, selctors):  # checks the path in the left side of the page nav bar
@@ -61,7 +61,7 @@ class PageBase:
     def wait_for_clickable(self, ltype, selectors):
         self._execute_with_wait(ec.element_to_be_clickable((ltype, selectors)))
 
-    def close(self):
+    def close(self):  # closes window
         self.driver.close()
         self.driver.quit()
         self.driver.delete_all_cookies()

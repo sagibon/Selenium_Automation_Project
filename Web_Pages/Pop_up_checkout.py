@@ -29,20 +29,20 @@ class Pop_up_checkout(PageBase):
             time.sleep(2)
             return self.get_element(By.CSS_SELECTOR, 'span[class="cart ng-binding"]')
 
-    def click_to_checkout(self):
+    def click_to_checkout(self):  # clicks checkout button
         self.get_element(By.CSS_SELECTOR, '#checkOutPopUp').click()
 
-    def get_quantity_after_purchase(self):
+    def get_quantity_after_purchase(self):  # gets quantity
         self.get_element(By.ID, 'menuCart').click()
         return self.get_element(By.XPATH, '//label[@class="roboto-bold ng-scope"]').text
 
-    def remove_product(self):
+    def remove_product(self): # removes product from popup
         self.get_element(By.CSS_SELECTOR, "div[icon-x][class='removeProduct iconCss iconX']").click()
 
-    def get_total_price(self):
+    def get_total_price(self):  # gets total popup cart price
         return self.get_element(By.ID, "checkOutPopUp")
 
-    def get_names_of_products(self):
+    def get_names_of_products(self):  # gets product names from popout cart
         pop_up_names = self.get_elements(By.XPATH, '//h3[@class="ng-binding"]')
         lst = []
         for i in range(len(pop_up_names)):  # starting from the 1th row

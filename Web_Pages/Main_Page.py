@@ -2,19 +2,15 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from Config.config import MAIN_PAGE_URL, PASSWORD
 from Web_Pages.PageBase import PageBase
-from random_words import RandomEmails
-from random_words import RandomNicknames
 from Config.Driver import driver
-import time
 
-class Main_Page(PageBase):
+
+class Main_Page(PageBase):  # categories dictionary
     categories = {"headphones": "#headphonesImg", "mice": "#miceImg", "laptops": "#laptopsImg",
                   "speakers": "#speakersImg", "tablets": "#tabletsImg"}
 
     def __init__(self):
         super().__init__()
-        self.generate_email = RandomEmails()
-        self.generate_username = RandomNicknames()
 
     def click_on_category(self, category):
         self.element_not_exist(By.XPATH, '//div[@class="loader"]')
@@ -27,7 +23,7 @@ class Main_Page(PageBase):
     def get_main_page(self):
         driver.navigate(MAIN_PAGE_URL)
 
-    def check_user_orders(self):
+    def check_user_orders(self):  # checks the orders saved in user
         self.get_element(By.ID, 'menuUserSVGPath').click()
         self.element_not_exist(By.CSS_SELECTOR, 'div[class="emptyCart"]')
         self.get_element(By.XPATH, '//div/label[@translate="My_Orders"][@role="link"]').click()
@@ -37,7 +33,7 @@ class Main_Page(PageBase):
             lst += [products[i].text.upper()]
         return lst
 
-    def click_to_login_from_main_page(self, username, password):
+    def click_to_login_from_main_page(self, username, password):  # logins to a user from main page
         self.element_not_exist(By.XPATH, '//div[@class="loader"]')
         self.wait_for_clickable(By.ID, "menuUserLink")
         self.get_element(By.ID, "menuUserLink").click()
@@ -51,7 +47,7 @@ class Main_Page(PageBase):
         self.get_element(By.ID, "menuUserLink").click()
         self.get_element(By.CSS_SELECTOR, "div[id='loginMiniTitle']>label[translate='Sign_out']").click()
 
-    def check_login_name(self):
+    def check_login_name(self):  # checks the user name near the icon
         try:
             return self.get_element(By.CSS_SELECTOR,
                                     "a[id='menuUserLink']>span[data-ng-show='userCookie.response']").text

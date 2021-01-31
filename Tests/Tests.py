@@ -274,7 +274,7 @@ class AOS_TESTS(unittest.TestCase):
         self.assertEqual(USERNAME, account_name)  # sees if the account shown above the account icon is the same
         # time.sleep(2)  # wait between login and logout
         self.main_page.logout_user()  # logs out of the account
-        # time.sleep(1)  # give time to logout safely
+        time.sleep(1)  # give time to logout safely
         account_name = self.main_page.check_login_name()  # resigns new account name
         self.assertEqual(account_name, "")  # if the user is logged out, the check login name method returns "out"
         AOS_TESTS.STATUS = True

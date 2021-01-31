@@ -7,7 +7,7 @@ class Driver(object):
     instance = None
 
     @classmethod
-    def get_instance(cls):
+    def get_instance(cls):  # checks if an instance of the class exists
         if cls.instance is None:
             cls.instance = Driver()
         return cls.instance
@@ -22,10 +22,10 @@ class Driver(object):
         self.driver.quit()
         instance = None
 
-    def clear_cookies(self):
+    def clear_cookies(self):  # clears cookies from the page
         self.driver.delete_all_cookies()
 
-    def navigate(self, url):
+    def navigate(self, url):  # goes to the url
         self.driver.get(url)
 
 

@@ -10,12 +10,12 @@ class PaymentMethod_Page(PageBase):
     def __init__(self):
         super().__init__()
 
-    def pay_with_safepay(self):
+    def pay_with_safepay(self): # clicks to start pay
         self.get_element(By.CSS_SELECTOR, 'input[name="safepay_username"]').send_keys("dolev")  # Username
         self.get_element(By.CSS_SELECTOR, 'input[name="safepay_password"]').send_keys("Aasd123")  # Password
         self.get_element(By.ID, 'pay_now_btn_SAFEPAY').click()  # Click pay now
 
-    def pay_with_mastercredit(self):
+    def pay_with_mastercredit(self):  # enters payment details
         try:
             self.get_element(By.XPATH, '//img[@alt="Master credit"]').click()
             self.get_element(By.CSS_SELECTOR, 'input[id="creditCard"]').send_keys("123456789112")
@@ -27,7 +27,7 @@ class PaymentMethod_Page(PageBase):
         else:
             self.get_element(By.ID, 'pay_now_btn_ManualPayment').click()
 
-    def thank_you(self):
+    def thank_you(self): # checks if payment complete
         return self.get_element(By.CSS_SELECTOR, 'span[translate="Thank_you_for_buying_with_Advantage"]').text
 
 

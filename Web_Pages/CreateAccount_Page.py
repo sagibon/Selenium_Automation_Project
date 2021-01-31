@@ -21,7 +21,7 @@ class CreateAccount(PageBase):
         self.generate_email = RandomEmails()
         self.generate_username = RandomNicknames()
 
-    def enter_valid_details(self):
+    def enter_valid_details(self):  # enters details to register
         password = PASSWORD
         username = self.generate_username.random_nicks()
         email = self.generate_email.randomMail()

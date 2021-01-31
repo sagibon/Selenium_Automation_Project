@@ -22,7 +22,7 @@ class Product_Page(PageBase):
     def add_to_cart(self):  # Click on Add To Cart
         self.get_element(By.CSS_SELECTOR, 'button[name="save_to_cart"]').click()
 
-    def choose_color(self):
+    def choose_color(self):  # chooses product color
         x = self.get_element(By.CSS_SELECTOR, '.productColor')
         self.color = x.get_attribute("title")
 
@@ -42,9 +42,6 @@ class Product_Page(PageBase):
     def get_quantity(self):
         return self.get_element(By.CSS_SELECTOR, 'input[name="quantity"]').get_attribute("quantity")
 
-    def get_quantity1(self):
-        return self.quantity
-
-    def get_price(self): # slicing the $ sign off the price
+    def get_price(self):  # slicing the $ sign off the price
         price = self.get_element(By.XPATH, '//h2[@class="roboto-thin screen768 ng-binding"]').text[1:].replace(',', '')
         return float(price)
