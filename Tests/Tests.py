@@ -1,5 +1,4 @@
 import unittest
-from random_words import RandomEmails, RandomNicknames
 from Web_Pages.Main_Page import Main_Page
 from Web_Pages.Category_Page import Category_Page
 from Web_Pages.Product_Page import Product_Page
@@ -98,21 +97,24 @@ class AOS_TESTS(unittest.TestCase):
         self.main_page.click_on_category('tablets')
         self.category_page = Category_Page()  # click on the category page
         self.category_page.scan_and_click()
-        self.product_page = Product_Page()
-        self.product_page.add_product_to_cart(3)
-        self.product_page.go_back()
+        self.product_page1 = Product_Page()
+        self.product_page1.add_product_to_cart(3)
+        self.product_page1.go_back()
+        self.product_page1.go_back()
+        self.main_page.click_on_category('mice')
         self.category_page.scan_products()  # get the list of the products that are in stock from the page
         self.category_page.click_on_product()
-        self.product_page.add_product_to_cart(2)
-        self.product_page.go_back()
+        self.product_page2 = Product_Page()
+        self.product_page2.add_product_to_cart(2)
+        product_name2 = self.product_page2.name
+        self.product_page2.go_back()
         # removing a product from the popup cart
         self.pop_out = Pop_up_checkout()
         self.pop_out.remove_product()
         # assertion - checking the total number of products in the cart
         self.pop_out = Pop_up_checkout()
-        total = self.pop_out.get_total_quantity().text
-        self.assertNotEqual(total, '(5 Items)')  # checks if only first products quantity left by comparing to the
-        # previous total
+        names = self.pop_out.get_names_of_products()
+        self.assertNotIn(product_name2, names)
         AOS_TESTS.STATUS = True
 
     def test_D(self):
@@ -126,7 +128,6 @@ class AOS_TESTS(unittest.TestCase):
         self.product_page.add_product_to_cart(5)
         self.cart_page = Cart_Page()
         self.cart_page.go_to_cart()  # go to cart page
-        time.sleep(1)
         location = self.cart_page.get_page_path().text  # checks page path
         print(location, " is SHOPPING CART PAGE")
         self.assertIn("SHOPPING CART", location)

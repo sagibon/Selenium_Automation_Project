@@ -21,6 +21,7 @@ class Pop_up_checkout(PageBase):
             pass
 
     def get_total_quantity(self):
+        time.sleep(2)
         try:  # if all products deleted, return the total above the cart icon which will be zero:
             return self.get_element(By.XPATH, '//tr/td/span/label[@class="roboto-regular ng-binding"]')
 
@@ -40,3 +41,10 @@ class Pop_up_checkout(PageBase):
 
     def get_total_price(self):
         return self.get_element(By.ID, "checkOutPopUp")
+
+    def get_names_of_products(self):
+        pop_up_names = self.get_elements(By.XPATH, '//h3[@class="ng-binding"]')
+        lst = []
+        for i in range(len(pop_up_names)):  # starting from the 1th row
+            lst += [pop_up_names[i].text.upper()]
+        return lst

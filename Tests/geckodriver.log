@@ -2216,3 +2216,577 @@ JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: E
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1612047884990	geckodriver	INFO	Listening on 127.0.0.1:58004
+1612047888039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilenDPQ9Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612047892456	Marionette	INFO	Listening on port 58012
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612047892872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612047892887	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612048061240	Marionette	INFO	Stopped listening on port 58012
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612048124627	geckodriver	INFO	Listening on 127.0.0.1:58158
+1612048127681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileLW5FNN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612048145929	Marionette	INFO	Listening on port 58168
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612048146401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612048146412	Marionette	ERROR	[15] No reply from Marionette:Register
+1612048169399	Marionette	INFO	Stopped listening on port 58168
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612048340292	geckodriver	INFO	Listening on 127.0.0.1:58306
+1612048343376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileFJTVI5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612048345642	Marionette	INFO	Listening on port 58316
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612048346032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612048346044	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1612048572602	Marionette	INFO	Stopped listening on port 58316
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612048889585	geckodriver	INFO	Listening on 127.0.0.1:58625
+1612048892664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileuykB8q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612048895049	Marionette	INFO	Listening on port 58634
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612048895330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612048895342	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612048927002	Marionette	INFO	Stopped listening on port 58634
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612049154177	geckodriver	INFO	Listening on 127.0.0.1:58775
+1612049157237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileUPRnrs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612049159582	Marionette	INFO	Listening on port 58783
+1612049159916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612049159928	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612049192426	Marionette	INFO	Stopped listening on port 58783
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612049725897	geckodriver	INFO	Listening on 127.0.0.1:59061
+1612049728993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileiHmYMu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612049741792	Marionette	INFO	Listening on port 59070
+1612049741898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612049741910	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612049778220	Marionette	INFO	Stopped listening on port 59070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612049788326	geckodriver	INFO	Listening on 127.0.0.1:59241
+1612049791393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofiletJdLr6"
+1612049809704	geckodriver	INFO	Listening on 127.0.0.1:59324
+1612049812799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileaV61as"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612049815132	Marionette	INFO	Listening on port 59350
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612049815469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612049815481	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612049846485	Marionette	INFO	Stopped listening on port 59350
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612049869530	geckodriver	INFO	Listening on 127.0.0.1:59567
+1612049872620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileDOXXd8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612049878421	Marionette	INFO	Listening on port 59589
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612049878938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612049878951	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612049910074	Marionette	INFO	Stopped listening on port 59589
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612049997999	geckodriver	INFO	Listening on 127.0.0.1:60054
+1612050001034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilerosrVF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050003436	Marionette	INFO	Listening on port 60076
+1612050003699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612050003711	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050033394	Marionette	INFO	Stopped listening on port 60076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612050053299	geckodriver	INFO	Listening on 127.0.0.1:60279
+1612050056349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileV8hLOf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050058652	Marionette	INFO	Listening on port 60294
+1612050058999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612050059010	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050086956	Marionette	INFO	Stopped listening on port 60294
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612050120486	geckodriver	INFO	Listening on 127.0.0.1:60438
+1612050123530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilex6Unsy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050125776	Marionette	INFO	Listening on port 60447
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050126215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612050126228	Marionette	ERROR	[15] No reply from Marionette:Register
+1612050159913	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050163776	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050164978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050168320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050171537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050171801	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050172659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050173604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050176743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050176917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612050177748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1612050304469	Marionette	INFO	Stopped listening on port 60447
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612050361408	geckodriver	INFO	Listening on 127.0.0.1:61528
+1612050364455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileqQh7Gd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050378264	Marionette	INFO	Listening on port 61539
+1612050378380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612050378391	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612050543596	Marionette	INFO	Stopped listening on port 61539
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612050891409	geckodriver	INFO	Listening on 127.0.0.1:62965
+1612050894508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileiJ0FD4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050896879	Marionette	INFO	Listening on port 62975
+1612050897180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612050897192	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612050933674	Marionette	ERROR	[33] No reply from Marionette:Register
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2112:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:52:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:21
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+console.error: "Error writing request: getGrids"
+console.error: "Error sending event: overflow-change"
+console.error: (new TypeError("can't access dead object", "resource://devtools/server/actors/inspector/utils.js", 132))
+TypeError: can't access dead object: standardTreeWalkerFilter@resource://devtools/server/actors/inspector/utils.js:132:5
+isSkippedNode@resource://devtools/server/actors/inspector/document-walker.js:217:17
+getStartingNode@resource://devtools/server/actors/inspector/document-walker.js:172:27
+DocumentWalker@resource://devtools/server/actors/inspector/document-walker.js:79:34
+getNonAnonymousDocumentWalker@resource://devtools/server/actors/inspector/walker.js:348:12
+rawParentNode@resource://devtools/server/actors/inspector/walker.js:697:27
+parentNode@resource://devtools/server/actors/inspector/walker.js:676:25
+form@resource://devtools/server/actors/inspector/node.js:160:36
+write@resource://devtools/shared/protocol/types.js:358:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:583:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+1612050941698	Marionette	INFO	Stopped listening on port 62975
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612051038272	geckodriver	INFO	Listening on 127.0.0.1:63253
+1612051041345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileSVVjwi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051061047	Marionette	INFO	Listening on port 63262
+1612051061193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612051061205	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051104873	Marionette	INFO	Stopped listening on port 63262
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612051116787	geckodriver	INFO	Listening on 127.0.0.1:63349
+1612051119883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofilexAEOnS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051142976	Marionette	INFO	Listening on port 63358
+1612051143461	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051143480	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1612051312484	Marionette	INFO	Stopped listening on port 63358
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612051568507	geckodriver	INFO	Listening on 127.0.0.1:64045
+1612051571582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofile6BMNN2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051573979	Marionette	INFO	Listening on port 64054
+1612051574265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612051574277	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051619346	Marionette	INFO	Stopped listening on port 64054
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+JavaScript error: https://www.advantageonlineshopping.com/main.min.js, line 6: Error: [$rootScope:infdig] http://errors.angularjs.org/1.4.14/$rootScope/infdig?p0=10&p1=%5B%5D
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612051847282	geckodriver	INFO	Listening on 127.0.0.1:64360
+1612051850334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dolev\\AppData\\Local\\Temp\\rust_mozprofileAPaADM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051852678	Marionette	INFO	Listening on port 64368
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612051853024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612051853035	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1612052022997	Marionette	INFO	Stopped listening on port 64368
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

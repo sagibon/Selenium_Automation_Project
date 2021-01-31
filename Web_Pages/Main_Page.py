@@ -5,7 +5,7 @@ from Web_Pages.PageBase import PageBase
 from random_words import RandomEmails
 from random_words import RandomNicknames
 from Config.Driver import driver
-
+import time
 
 class Main_Page(PageBase):
     categories = {"headphones": "#headphonesImg", "mice": "#miceImg", "laptops": "#laptopsImg",
@@ -39,14 +39,16 @@ class Main_Page(PageBase):
 
     def click_to_login_from_main_page(self, username, password):
         self.element_not_exist(By.XPATH, '//div[@class="loader"]')
-        self.get_element(By.ID, "menuUser").click()
+        self.wait_for_clickable(By.ID, "menuUserLink")
+        self.get_element(By.ID, "menuUserLink").click()
         self.get_element(By.CSS_SELECTOR, "input[name='username']").send_keys(username)
         self.get_element(By.CSS_SELECTOR, "input[name='password']").send_keys(password)
         self.get_element(By.ID, "sign_in_btnundefined").click()  # click on sign in
 
     def logout_user(self):
         self.element_not_exist(By.XPATH,'//div[@class="PopUp"]')
-        self.get_element(By.ID, "hrefUserIcon").click()
+        self.wait_for_clickable(By.ID, "menuUserLink")
+        self.get_element(By.ID, "menuUserLink").click()
         self.get_element(By.CSS_SELECTOR, "div[id='loginMiniTitle']>label[translate='Sign_out']").click()
 
     def check_login_name(self):
